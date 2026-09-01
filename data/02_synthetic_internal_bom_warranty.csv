@@ -1,0 +1,985 @@
+sku_id,product_family_key,brand,component,bom_cost_usd,cost_share_pct,warranty_claim_rate_pct
+SKU-0001,Other/Unbranded_Unknown_Unk_Unk_Unk,Other/Unbranded,Motherboard,189.41,35.6,7.72
+SKU-0001,Other/Unbranded_Unknown_Unk_Unk_Unk,Other/Unbranded,Display Panel,107.76,20.2,2.47
+SKU-0001,Other/Unbranded_Unknown_Unk_Unk_Unk,Other/Unbranded,Battery,44.36,8.3,3.42
+SKU-0001,Other/Unbranded_Unknown_Unk_Unk_Unk,Other/Unbranded,RAM Module,34.75,6.5,0.85
+SKU-0001,Other/Unbranded_Unknown_Unk_Unk_Unk,Other/Unbranded,Storage (SSD/HDD),51.16,9.6,2.01
+SKU-0001,Other/Unbranded_Unknown_Unk_Unk_Unk,Other/Unbranded,Keyboard/Chassis,74.91,14.1,2.91
+SKU-0001,Other/Unbranded_Unknown_Unk_Unk_Unk,Other/Unbranded,Power Adapter,30.24,5.7,2.19
+SKU-0001,Other/Unbranded_Unknown_Unk_Unk_Unk,Other/Unbranded,TOTAL / MSRP,532.4,100.0,
+SKU-0002,Dell_i5_Unk_256GB_14-16in,Dell,Motherboard,207.14,30.9,8.89
+SKU-0002,Dell_i5_Unk_256GB_14-16in,Dell,Display Panel,133.05,19.9,2.83
+SKU-0002,Dell_i5_Unk_256GB_14-16in,Dell,Battery,48.41,7.2,3.68
+SKU-0002,Dell_i5_Unk_256GB_14-16in,Dell,RAM Module,41.08,6.1,1.1
+SKU-0002,Dell_i5_Unk_256GB_14-16in,Dell,Storage (SSD/HDD),63.77,9.5,2.1
+SKU-0002,Dell_i5_Unk_256GB_14-16in,Dell,Keyboard/Chassis,88.32,13.2,3.06
+SKU-0002,Dell_i5_Unk_256GB_14-16in,Dell,Power Adapter,42.41,6.3,2.83
+SKU-0002,Dell_i5_Unk_256GB_14-16in,Dell,TOTAL / MSRP,670.0,100.0,
+SKU-0003,Dell_i5_Unk_128GB_14-16in,Dell,Motherboard,224.8,34.5,10.38
+SKU-0003,Dell_i5_Unk_128GB_14-16in,Dell,Display Panel,140.25,21.5,2.33
+SKU-0003,Dell_i5_Unk_128GB_14-16in,Dell,Battery,57.01,8.7,4.13
+SKU-0003,Dell_i5_Unk_128GB_14-16in,Dell,RAM Module,41.48,6.4,0.87
+SKU-0003,Dell_i5_Unk_128GB_14-16in,Dell,Storage (SSD/HDD),63.83,9.8,1.88
+SKU-0003,Dell_i5_Unk_128GB_14-16in,Dell,Keyboard/Chassis,95.06,14.6,3.21
+SKU-0003,Dell_i5_Unk_128GB_14-16in,Dell,Power Adapter,42.46,6.5,2.61
+SKU-0003,Dell_i5_Unk_128GB_14-16in,Dell,TOTAL / MSRP,652.0,100.0,
+SKU-0004,AUO_Unknown_Unk_Unk_Unk,AUO,Motherboard,165.22,31.0,8.95
+SKU-0004,AUO_Unknown_Unk_Unk_Unk,AUO,Display Panel,119.27,22.4,2.33
+SKU-0004,AUO_Unknown_Unk_Unk_Unk,AUO,Battery,39.35,7.4,4.26
+SKU-0004,AUO_Unknown_Unk_Unk_Unk,AUO,RAM Module,30.26,5.7,0.93
+SKU-0004,AUO_Unknown_Unk_Unk_Unk,AUO,Storage (SSD/HDD),52.47,9.9,1.72
+SKU-0004,AUO_Unknown_Unk_Unk_Unk,AUO,Keyboard/Chassis,76.57,14.4,2.83
+SKU-0004,AUO_Unknown_Unk_Unk_Unk,AUO,Power Adapter,29.64,5.6,2.58
+SKU-0004,AUO_Unknown_Unk_Unk_Unk,AUO,TOTAL / MSRP,532.4,100.0,
+SKU-0005,LG_Unknown_Unk_Unk_Unk,LG,Motherboard,173.4,32.6,5.69
+SKU-0005,LG_Unknown_Unk_Unk_Unk,LG,Display Panel,112.34,21.1,2.2
+SKU-0005,LG_Unknown_Unk_Unk_Unk,LG,Battery,39.92,7.5,4.47
+SKU-0005,LG_Unknown_Unk_Unk_Unk,LG,RAM Module,34.47,6.5,0.95
+SKU-0005,LG_Unknown_Unk_Unk_Unk,LG,Storage (SSD/HDD),54.81,10.3,1.7
+SKU-0005,LG_Unknown_Unk_Unk_Unk,LG,Keyboard/Chassis,67.19,12.6,3.01
+SKU-0005,LG_Unknown_Unk_Unk_Unk,LG,Power Adapter,33.17,6.2,2.33
+SKU-0005,LG_Unknown_Unk_Unk_Unk,LG,TOTAL / MSRP,532.4,100.0,
+SKU-0006,Dell_i5_Unk_512GB_14-16in,Dell,Motherboard,235.42,33.3,5.43
+SKU-0006,Dell_i5_Unk_512GB_14-16in,Dell,Display Panel,147.61,20.9,2.5
+SKU-0006,Dell_i5_Unk_512GB_14-16in,Dell,Battery,62.1,8.8,3.72
+SKU-0006,Dell_i5_Unk_512GB_14-16in,Dell,RAM Module,38.56,5.5,0.93
+SKU-0006,Dell_i5_Unk_512GB_14-16in,Dell,Storage (SSD/HDD),73.15,10.4,2.02
+SKU-0006,Dell_i5_Unk_512GB_14-16in,Dell,Keyboard/Chassis,93.74,13.3,3.15
+SKU-0006,Dell_i5_Unk_512GB_14-16in,Dell,Power Adapter,44.29,6.3,2.4
+SKU-0006,Dell_i5_Unk_512GB_14-16in,Dell,TOTAL / MSRP,706.0,100.0,
+SKU-0007,Samsung_Unknown_Unk_Unk_Unk,Samsung,Motherboard,191.82,36.0,6.88
+SKU-0007,Samsung_Unknown_Unk_Unk_Unk,Samsung,Display Panel,106.37,20.0,2.57
+SKU-0007,Samsung_Unknown_Unk_Unk_Unk,Samsung,Battery,44.39,8.3,4.37
+SKU-0007,Samsung_Unknown_Unk_Unk_Unk,Samsung,RAM Module,29.86,5.6,1.06
+SKU-0007,Samsung_Unknown_Unk_Unk_Unk,Samsung,Storage (SSD/HDD),56.84,10.7,2.11
+SKU-0007,Samsung_Unknown_Unk_Unk_Unk,Samsung,Keyboard/Chassis,80.87,15.2,3.34
+SKU-0007,Samsung_Unknown_Unk_Unk_Unk,Samsung,Power Adapter,33.97,6.4,2.54
+SKU-0007,Samsung_Unknown_Unk_Unk_Unk,Samsung,TOTAL / MSRP,532.4,100.0,
+SKU-0008,Dell_i5_Unk_1TB_14-16in,Dell,Motherboard,267.6,34.4,13.9
+SKU-0008,Dell_i5_Unk_1TB_14-16in,Dell,Display Panel,166.0,21.3,2.67
+SKU-0008,Dell_i5_Unk_1TB_14-16in,Dell,Battery,61.05,7.8,4.47
+SKU-0008,Dell_i5_Unk_1TB_14-16in,Dell,RAM Module,43.52,5.6,1.12
+SKU-0008,Dell_i5_Unk_1TB_14-16in,Dell,Storage (SSD/HDD),75.81,9.7,2.26
+SKU-0008,Dell_i5_Unk_1TB_14-16in,Dell,Keyboard/Chassis,101.53,13.1,3.04
+SKU-0008,Dell_i5_Unk_1TB_14-16in,Dell,Power Adapter,51.3,6.6,2.26
+SKU-0008,Dell_i5_Unk_1TB_14-16in,Dell,TOTAL / MSRP,778.0,100.0,
+SKU-0009,Dell_i5_Unk_256GB_12-14in,Dell,Motherboard,234.62,35.0,7.85
+SKU-0009,Dell_i5_Unk_256GB_12-14in,Dell,Display Panel,148.65,22.2,2.51
+SKU-0009,Dell_i5_Unk_256GB_12-14in,Dell,Battery,50.86,7.6,4.57
+SKU-0009,Dell_i5_Unk_256GB_12-14in,Dell,RAM Module,43.47,6.5,0.98
+SKU-0009,Dell_i5_Unk_256GB_12-14in,Dell,Storage (SSD/HDD),68.03,10.2,2.0
+SKU-0009,Dell_i5_Unk_256GB_12-14in,Dell,Keyboard/Chassis,89.69,13.4,2.57
+SKU-0009,Dell_i5_Unk_256GB_12-14in,Dell,Power Adapter,44.18,6.6,2.48
+SKU-0009,Dell_i5_Unk_256GB_12-14in,Dell,TOTAL / MSRP,670.0,100.0,
+SKU-0010,Lenovo_i5_Unk_256GB_14-16in,Lenovo,Motherboard,247.31,36.9,7.3
+SKU-0010,Lenovo_i5_Unk_256GB_14-16in,Lenovo,Display Panel,161.56,24.1,2.18
+SKU-0010,Lenovo_i5_Unk_256GB_14-16in,Lenovo,Battery,57.36,8.6,3.78
+SKU-0010,Lenovo_i5_Unk_256GB_14-16in,Lenovo,RAM Module,39.35,5.9,1.1
+SKU-0010,Lenovo_i5_Unk_256GB_14-16in,Lenovo,Storage (SSD/HDD),61.6,9.2,2.07
+SKU-0010,Lenovo_i5_Unk_256GB_14-16in,Lenovo,Keyboard/Chassis,89.19,13.3,2.82
+SKU-0010,Lenovo_i5_Unk_256GB_14-16in,Lenovo,Power Adapter,41.78,6.2,2.65
+SKU-0010,Lenovo_i5_Unk_256GB_14-16in,Lenovo,TOTAL / MSRP,670.0,100.0,
+SKU-0011,Dell_i5_8GB_256GB_14-16in,Dell,Motherboard,217.47,32.3,7.1
+SKU-0011,Dell_i5_8GB_256GB_14-16in,Dell,Display Panel,147.97,22.0,2.72
+SKU-0011,Dell_i5_8GB_256GB_14-16in,Dell,Battery,56.97,8.5,4.47
+SKU-0011,Dell_i5_8GB_256GB_14-16in,Dell,RAM Module,40.98,6.1,0.98
+SKU-0011,Dell_i5_8GB_256GB_14-16in,Dell,Storage (SSD/HDD),66.78,9.9,2.03
+SKU-0011,Dell_i5_8GB_256GB_14-16in,Dell,Keyboard/Chassis,89.43,13.3,2.58
+SKU-0011,Dell_i5_8GB_256GB_14-16in,Dell,Power Adapter,37.33,5.6,2.52
+SKU-0011,Dell_i5_8GB_256GB_14-16in,Dell,TOTAL / MSRP,672.4,100.0,
+SKU-0012,Dell_i7_16GB_512GB_14-16in,Dell,Motherboard,354.1,36.3,11.1
+SKU-0012,Dell_i7_16GB_512GB_14-16in,Dell,Display Panel,220.35,22.6,2.67
+SKU-0012,Dell_i7_16GB_512GB_14-16in,Dell,Battery,75.22,7.7,4.35
+SKU-0012,Dell_i7_16GB_512GB_14-16in,Dell,RAM Module,61.34,6.3,0.93
+SKU-0012,Dell_i7_16GB_512GB_14-16in,Dell,Storage (SSD/HDD),96.08,9.9,2.11
+SKU-0012,Dell_i7_16GB_512GB_14-16in,Dell,Keyboard/Chassis,134.9,13.8,2.77
+SKU-0012,Dell_i7_16GB_512GB_14-16in,Dell,Power Adapter,60.36,6.2,2.33
+SKU-0012,Dell_i7_16GB_512GB_14-16in,Dell,TOTAL / MSRP,974.8,100.0,
+SKU-0013,Lenovo_Unknown_Unk_Unk_Unk,Lenovo,Motherboard,189.34,35.6,8.43
+SKU-0013,Lenovo_Unknown_Unk_Unk_Unk,Lenovo,Display Panel,123.17,23.1,2.14
+SKU-0013,Lenovo_Unknown_Unk_Unk_Unk,Lenovo,Battery,39.13,7.4,3.77
+SKU-0013,Lenovo_Unknown_Unk_Unk_Unk,Lenovo,RAM Module,31.78,6.0,0.88
+SKU-0013,Lenovo_Unknown_Unk_Unk_Unk,Lenovo,Storage (SSD/HDD),51.6,9.7,1.98
+SKU-0013,Lenovo_Unknown_Unk_Unk_Unk,Lenovo,Keyboard/Chassis,81.23,15.3,3.35
+SKU-0013,Lenovo_Unknown_Unk_Unk_Unk,Lenovo,Power Adapter,32.75,6.2,2.5
+SKU-0013,Lenovo_Unknown_Unk_Unk_Unk,Lenovo,TOTAL / MSRP,532.4,100.0,
+SKU-0014,Dell_i5_16GB_512GB_14-16in,Dell,Motherboard,286.82,37.0,11.3
+SKU-0014,Dell_i5_16GB_512GB_14-16in,Dell,Display Panel,185.46,23.9,2.56
+SKU-0014,Dell_i5_16GB_512GB_14-16in,Dell,Battery,61.47,7.9,4.05
+SKU-0014,Dell_i5_16GB_512GB_14-16in,Dell,RAM Module,49.47,6.4,1.05
+SKU-0014,Dell_i5_16GB_512GB_14-16in,Dell,Storage (SSD/HDD),70.81,9.1,1.76
+SKU-0014,Dell_i5_16GB_512GB_14-16in,Dell,Keyboard/Chassis,111.04,14.3,2.85
+SKU-0014,Dell_i5_16GB_512GB_14-16in,Dell,Power Adapter,49.69,6.4,2.14
+SKU-0014,Dell_i5_16GB_512GB_14-16in,Dell,TOTAL / MSRP,774.8,100.0,
+SKU-0015,Dell_i5_Unk_2TB_14-16in,Dell,Motherboard,307.93,33.0,9.58
+SKU-0015,Dell_i5_Unk_2TB_14-16in,Dell,Display Panel,217.95,23.3,2.34
+SKU-0015,Dell_i5_Unk_2TB_14-16in,Dell,Battery,75.74,8.1,4.09
+SKU-0015,Dell_i5_Unk_2TB_14-16in,Dell,RAM Module,54.61,5.8,1.08
+SKU-0015,Dell_i5_Unk_2TB_14-16in,Dell,Storage (SSD/HDD),100.1,10.7,1.96
+SKU-0015,Dell_i5_Unk_2TB_14-16in,Dell,Keyboard/Chassis,123.91,13.3,2.89
+SKU-0015,Dell_i5_Unk_2TB_14-16in,Dell,Power Adapter,59.7,6.4,2.37
+SKU-0015,Dell_i5_Unk_2TB_14-16in,Dell,TOTAL / MSRP,934.0,100.0,
+SKU-0016,Dell_i5_Unk_128GB_12-14in,Dell,Motherboard,237.07,36.4,4.71
+SKU-0016,Dell_i5_Unk_128GB_12-14in,Dell,Display Panel,156.37,24.0,2.56
+SKU-0016,Dell_i5_Unk_128GB_12-14in,Dell,Battery,47.9,7.3,4.12
+SKU-0016,Dell_i5_Unk_128GB_12-14in,Dell,RAM Module,41.09,6.3,1.09
+SKU-0016,Dell_i5_Unk_128GB_12-14in,Dell,Storage (SSD/HDD),70.82,10.9,2.28
+SKU-0016,Dell_i5_Unk_128GB_12-14in,Dell,Keyboard/Chassis,95.61,14.7,3.04
+SKU-0016,Dell_i5_Unk_128GB_12-14in,Dell,Power Adapter,36.33,5.6,2.7
+SKU-0016,Dell_i5_Unk_128GB_12-14in,Dell,TOTAL / MSRP,652.0,100.0,
+SKU-0017,Dell_i7_16GB_2TB_14-16in,Dell,Motherboard,326.43,31.1,5.67
+SKU-0017,Dell_i7_16GB_2TB_14-16in,Dell,Display Panel,231.57,22.1,2.3
+SKU-0017,Dell_i7_16GB_2TB_14-16in,Dell,Battery,81.81,7.8,4.38
+SKU-0017,Dell_i7_16GB_2TB_14-16in,Dell,RAM Module,64.15,6.1,0.96
+SKU-0017,Dell_i7_16GB_2TB_14-16in,Dell,Storage (SSD/HDD),110.8,10.6,2.04
+SKU-0017,Dell_i7_16GB_2TB_14-16in,Dell,Keyboard/Chassis,141.98,13.5,2.94
+SKU-0017,Dell_i7_16GB_2TB_14-16in,Dell,Power Adapter,62.59,6.0,2.17
+SKU-0017,Dell_i7_16GB_2TB_14-16in,Dell,TOTAL / MSRP,1049.8,100.0,
+SKU-0018,Lenovo_i5_Unk_512GB_14-16in,Lenovo,Motherboard,227.44,32.2,10.14
+SKU-0018,Lenovo_i5_Unk_512GB_14-16in,Lenovo,Display Panel,166.77,23.6,2.29
+SKU-0018,Lenovo_i5_Unk_512GB_14-16in,Lenovo,Battery,61.88,8.8,4.07
+SKU-0018,Lenovo_i5_Unk_512GB_14-16in,Lenovo,RAM Module,42.59,6.0,1.15
+SKU-0018,Lenovo_i5_Unk_512GB_14-16in,Lenovo,Storage (SSD/HDD),73.36,10.4,1.75
+SKU-0018,Lenovo_i5_Unk_512GB_14-16in,Lenovo,Keyboard/Chassis,102.71,14.5,2.96
+SKU-0018,Lenovo_i5_Unk_512GB_14-16in,Lenovo,Power Adapter,41.38,5.9,2.68
+SKU-0018,Lenovo_i5_Unk_512GB_14-16in,Lenovo,TOTAL / MSRP,706.0,100.0,
+SKU-0019,Lenovo_i5_8GB_512GB_14-16in,Lenovo,Motherboard,239.53,33.7,12.54
+SKU-0019,Lenovo_i5_8GB_512GB_14-16in,Lenovo,Display Panel,160.97,22.6,2.42
+SKU-0019,Lenovo_i5_8GB_512GB_14-16in,Lenovo,Battery,52.06,7.3,4.57
+SKU-0019,Lenovo_i5_8GB_512GB_14-16in,Lenovo,RAM Module,38.66,5.4,0.93
+SKU-0019,Lenovo_i5_8GB_512GB_14-16in,Lenovo,Storage (SSD/HDD),73.71,10.4,1.8
+SKU-0019,Lenovo_i5_8GB_512GB_14-16in,Lenovo,Keyboard/Chassis,108.46,15.3,3.2
+SKU-0019,Lenovo_i5_8GB_512GB_14-16in,Lenovo,Power Adapter,39.09,5.5,2.78
+SKU-0019,Lenovo_i5_8GB_512GB_14-16in,Lenovo,TOTAL / MSRP,710.8,100.0,
+SKU-0020,Lenovo_i5_Unk_128GB_14-16in,Lenovo,Motherboard,235.45,36.1,5.4
+SKU-0020,Lenovo_i5_Unk_128GB_14-16in,Lenovo,Display Panel,150.6,23.1,2.42
+SKU-0020,Lenovo_i5_Unk_128GB_14-16in,Lenovo,Battery,55.69,8.5,3.96
+SKU-0020,Lenovo_i5_Unk_128GB_14-16in,Lenovo,RAM Module,35.31,5.4,0.87
+SKU-0020,Lenovo_i5_Unk_128GB_14-16in,Lenovo,Storage (SSD/HDD),71.72,11.0,2.3
+SKU-0020,Lenovo_i5_Unk_128GB_14-16in,Lenovo,Keyboard/Chassis,95.41,14.6,3.23
+SKU-0020,Lenovo_i5_Unk_128GB_14-16in,Lenovo,Power Adapter,38.73,5.9,2.22
+SKU-0020,Lenovo_i5_Unk_128GB_14-16in,Lenovo,TOTAL / MSRP,652.0,100.0,
+SKU-0021,HP_Unknown_Unk_Unk_Unk,HP,Motherboard,190.32,35.7,5.32
+SKU-0021,HP_Unknown_Unk_Unk_Unk,HP,Display Panel,121.15,22.8,2.52
+SKU-0021,HP_Unknown_Unk_Unk_Unk,HP,Battery,45.59,8.6,4.06
+SKU-0021,HP_Unknown_Unk_Unk_Unk,HP,RAM Module,33.81,6.4,1.03
+SKU-0021,HP_Unknown_Unk_Unk_Unk,HP,Storage (SSD/HDD),55.96,10.5,2.07
+SKU-0021,HP_Unknown_Unk_Unk_Unk,HP,Keyboard/Chassis,80.55,15.1,3.11
+SKU-0021,HP_Unknown_Unk_Unk_Unk,HP,Power Adapter,32.52,6.1,2.42
+SKU-0021,HP_Unknown_Unk_Unk_Unk,HP,TOTAL / MSRP,532.4,100.0,
+SKU-0022,Lenovo_celeron_4GB_32GB_Sub-12in,Lenovo,Motherboard,128.19,35.9,7.06
+SKU-0022,Lenovo_celeron_4GB_32GB_Sub-12in,Lenovo,Display Panel,81.6,22.9,2.72
+SKU-0022,Lenovo_celeron_4GB_32GB_Sub-12in,Lenovo,Battery,28.5,8.0,3.71
+SKU-0022,Lenovo_celeron_4GB_32GB_Sub-12in,Lenovo,RAM Module,21.93,6.1,0.95
+SKU-0022,Lenovo_celeron_4GB_32GB_Sub-12in,Lenovo,Storage (SSD/HDD),33.83,9.5,1.75
+SKU-0022,Lenovo_celeron_4GB_32GB_Sub-12in,Lenovo,Keyboard/Chassis,50.8,14.2,2.91
+SKU-0022,Lenovo_celeron_4GB_32GB_Sub-12in,Lenovo,Power Adapter,20.05,5.6,2.38
+SKU-0022,Lenovo_celeron_4GB_32GB_Sub-12in,Lenovo,TOTAL / MSRP,356.8,100.0,
+SKU-0023,Acer_Unknown_Unk_Unk_Unk,Acer,Motherboard,184.71,34.7,7.91
+SKU-0023,Acer_Unknown_Unk_Unk_Unk,Acer,Display Panel,111.94,21.0,2.26
+SKU-0023,Acer_Unknown_Unk_Unk_Unk,Acer,Battery,42.89,8.1,3.83
+SKU-0023,Acer_Unknown_Unk_Unk_Unk,Acer,RAM Module,31.97,6.0,1.06
+SKU-0023,Acer_Unknown_Unk_Unk_Unk,Acer,Storage (SSD/HDD),53.04,10.0,2.11
+SKU-0023,Acer_Unknown_Unk_Unk_Unk,Acer,Keyboard/Chassis,80.81,15.2,2.6
+SKU-0023,Acer_Unknown_Unk_Unk_Unk,Acer,Power Adapter,29.29,5.5,2.57
+SKU-0023,Acer_Unknown_Unk_Unk_Unk,Acer,TOTAL / MSRP,532.4,100.0,
+SKU-0024,HP_celeron_4GB_32GB_Sub-12in,HP,Motherboard,124.18,34.8,7.17
+SKU-0024,HP_celeron_4GB_32GB_Sub-12in,HP,Display Panel,71.63,20.1,2.24
+SKU-0024,HP_celeron_4GB_32GB_Sub-12in,HP,Battery,30.8,8.6,4.01
+SKU-0024,HP_celeron_4GB_32GB_Sub-12in,HP,RAM Module,22.98,6.4,0.96
+SKU-0024,HP_celeron_4GB_32GB_Sub-12in,HP,Storage (SSD/HDD),37.37,10.5,1.81
+SKU-0024,HP_celeron_4GB_32GB_Sub-12in,HP,Keyboard/Chassis,47.07,13.2,2.84
+SKU-0024,HP_celeron_4GB_32GB_Sub-12in,HP,Power Adapter,20.74,5.8,2.48
+SKU-0024,HP_celeron_4GB_32GB_Sub-12in,HP,TOTAL / MSRP,356.8,100.0,
+SKU-0025,Dell_i5_16GB_2TB_14-16in,Dell,Motherboard,291.69,34.3,8.71
+SKU-0025,Dell_i5_16GB_2TB_14-16in,Dell,Display Panel,189.77,22.3,2.41
+SKU-0025,Dell_i5_16GB_2TB_14-16in,Dell,Battery,70.12,8.2,4.08
+SKU-0025,Dell_i5_16GB_2TB_14-16in,Dell,RAM Module,49.36,5.8,1.13
+SKU-0025,Dell_i5_16GB_2TB_14-16in,Dell,Storage (SSD/HDD),79.25,9.3,1.85
+SKU-0025,Dell_i5_16GB_2TB_14-16in,Dell,Keyboard/Chassis,109.4,12.8,3.28
+SKU-0025,Dell_i5_16GB_2TB_14-16in,Dell,Power Adapter,46.81,5.5,2.52
+SKU-0025,Dell_i5_16GB_2TB_14-16in,Dell,TOTAL / MSRP,851.6,100.0,
+SKU-0026,Dell_i5_8GB_512GB_14-16in,Dell,Motherboard,245.35,34.5,14.04
+SKU-0026,Dell_i5_8GB_512GB_14-16in,Dell,Display Panel,148.8,20.9,2.25
+SKU-0026,Dell_i5_8GB_512GB_14-16in,Dell,Battery,59.35,8.3,4.04
+SKU-0026,Dell_i5_8GB_512GB_14-16in,Dell,RAM Module,44.95,6.3,0.91
+SKU-0026,Dell_i5_8GB_512GB_14-16in,Dell,Storage (SSD/HDD),66.81,9.4,2.14
+SKU-0026,Dell_i5_8GB_512GB_14-16in,Dell,Keyboard/Chassis,101.71,14.3,2.81
+SKU-0026,Dell_i5_8GB_512GB_14-16in,Dell,Power Adapter,46.33,6.5,2.37
+SKU-0026,Dell_i5_8GB_512GB_14-16in,Dell,TOTAL / MSRP,710.8,100.0,
+SKU-0027,Lenovo_i5_8GB_256GB_14-16in,Lenovo,Motherboard,207.91,31.0,8.25
+SKU-0027,Lenovo_i5_8GB_256GB_14-16in,Lenovo,Display Panel,135.25,20.2,2.23
+SKU-0027,Lenovo_i5_8GB_256GB_14-16in,Lenovo,Battery,54.63,8.2,3.97
+SKU-0027,Lenovo_i5_8GB_256GB_14-16in,Lenovo,RAM Module,37.04,5.5,1.11
+SKU-0027,Lenovo_i5_8GB_256GB_14-16in,Lenovo,Storage (SSD/HDD),61.97,9.2,2.14
+SKU-0027,Lenovo_i5_8GB_256GB_14-16in,Lenovo,Keyboard/Chassis,91.53,13.7,3.38
+SKU-0027,Lenovo_i5_8GB_256GB_14-16in,Lenovo,Power Adapter,37.3,5.6,2.72
+SKU-0027,Lenovo_i5_8GB_256GB_14-16in,Lenovo,TOTAL / MSRP,670.0,100.0,
+SKU-0028,Microsoft_i5_8GB_256GB_12-14in,Microsoft,Motherboard,216.53,32.2,11.55
+SKU-0028,Microsoft_i5_8GB_256GB_12-14in,Microsoft,Display Panel,159.09,23.7,2.42
+SKU-0028,Microsoft_i5_8GB_256GB_12-14in,Microsoft,Battery,56.09,8.3,4.48
+SKU-0028,Microsoft_i5_8GB_256GB_12-14in,Microsoft,RAM Module,42.34,6.3,1.0
+SKU-0028,Microsoft_i5_8GB_256GB_12-14in,Microsoft,Storage (SSD/HDD),65.78,9.8,2.02
+SKU-0028,Microsoft_i5_8GB_256GB_12-14in,Microsoft,Keyboard/Chassis,96.48,14.3,2.66
+SKU-0028,Microsoft_i5_8GB_256GB_12-14in,Microsoft,Power Adapter,42.2,6.3,2.65
+SKU-0028,Microsoft_i5_8GB_256GB_12-14in,Microsoft,TOTAL / MSRP,672.4,100.0,
+SKU-0029,Lenovo_i7_16GB_512GB_14-16in,Lenovo,Motherboard,357.54,36.7,10.28
+SKU-0029,Lenovo_i7_16GB_512GB_14-16in,Lenovo,Display Panel,223.33,22.9,2.71
+SKU-0029,Lenovo_i7_16GB_512GB_14-16in,Lenovo,Battery,79.07,8.1,4.31
+SKU-0029,Lenovo_i7_16GB_512GB_14-16in,Lenovo,RAM Module,53.84,5.5,1.01
+SKU-0029,Lenovo_i7_16GB_512GB_14-16in,Lenovo,Storage (SSD/HDD),90.22,9.3,1.94
+SKU-0029,Lenovo_i7_16GB_512GB_14-16in,Lenovo,Keyboard/Chassis,136.1,14.0,2.92
+SKU-0029,Lenovo_i7_16GB_512GB_14-16in,Lenovo,Power Adapter,60.14,6.2,2.65
+SKU-0029,Lenovo_i7_16GB_512GB_14-16in,Lenovo,TOTAL / MSRP,974.8,100.0,
+SKU-0030,Asus_Unknown_Unk_Unk_Unk,Asus,Motherboard,197.64,37.1,8.85
+SKU-0030,Asus_Unknown_Unk_Unk_Unk,Asus,Display Panel,116.24,21.8,2.84
+SKU-0030,Asus_Unknown_Unk_Unk_Unk,Asus,Battery,39.52,7.4,3.52
+SKU-0030,Asus_Unknown_Unk_Unk_Unk,Asus,RAM Module,34.32,6.4,1.13
+SKU-0030,Asus_Unknown_Unk_Unk_Unk,Asus,Storage (SSD/HDD),56.33,10.6,1.71
+SKU-0030,Asus_Unknown_Unk_Unk_Unk,Asus,Keyboard/Chassis,75.67,14.2,3.1
+SKU-0030,Asus_Unknown_Unk_Unk_Unk,Asus,Power Adapter,29.42,5.5,2.76
+SKU-0030,Asus_Unknown_Unk_Unk_Unk,Asus,TOTAL / MSRP,532.4,100.0,
+SKU-0031,HP_i5_16GB_512GB_14-16in,HP,Motherboard,281.29,36.3,4.8
+SKU-0031,HP_i5_16GB_512GB_14-16in,HP,Display Panel,171.1,22.1,2.57
+SKU-0031,HP_i5_16GB_512GB_14-16in,HP,Battery,65.01,8.4,3.65
+SKU-0031,HP_i5_16GB_512GB_14-16in,HP,RAM Module,44.94,5.8,0.97
+SKU-0031,HP_i5_16GB_512GB_14-16in,HP,Storage (SSD/HDD),84.03,10.8,1.98
+SKU-0031,HP_i5_16GB_512GB_14-16in,HP,Keyboard/Chassis,107.44,13.9,2.75
+SKU-0031,HP_i5_16GB_512GB_14-16in,HP,Power Adapter,44.15,5.7,2.56
+SKU-0031,HP_i5_16GB_512GB_14-16in,HP,TOTAL / MSRP,774.8,100.0,
+SKU-0032,HP_i5_8GB_512GB_14-16in,HP,Motherboard,245.57,34.5,12.29
+SKU-0032,HP_i5_8GB_512GB_14-16in,HP,Display Panel,156.85,22.1,2.86
+SKU-0032,HP_i5_8GB_512GB_14-16in,HP,Battery,55.89,7.9,3.5
+SKU-0032,HP_i5_8GB_512GB_14-16in,HP,RAM Module,40.94,5.8,0.94
+SKU-0032,HP_i5_8GB_512GB_14-16in,HP,Storage (SSD/HDD),66.96,9.4,2.24
+SKU-0032,HP_i5_8GB_512GB_14-16in,HP,Keyboard/Chassis,102.0,14.3,2.89
+SKU-0032,HP_i5_8GB_512GB_14-16in,HP,Power Adapter,38.94,5.5,2.71
+SKU-0032,HP_i5_8GB_512GB_14-16in,HP,TOTAL / MSRP,710.8,100.0,
+SKU-0033,Other/Unbranded_pentium_Unk_Unk_14-16in,Other/Unbranded,Motherboard,150.33,34.0,9.47
+SKU-0033,Other/Unbranded_pentium_Unk_Unk_14-16in,Other/Unbranded,Display Panel,104.37,23.6,2.83
+SKU-0033,Other/Unbranded_pentium_Unk_Unk_14-16in,Other/Unbranded,Battery,38.21,8.6,4.03
+SKU-0033,Other/Unbranded_pentium_Unk_Unk_14-16in,Other/Unbranded,RAM Module,24.72,5.6,1.06
+SKU-0033,Other/Unbranded_pentium_Unk_Unk_14-16in,Other/Unbranded,Storage (SSD/HDD),44.7,10.1,1.85
+SKU-0033,Other/Unbranded_pentium_Unk_Unk_14-16in,Other/Unbranded,Keyboard/Chassis,57.03,12.9,3.27
+SKU-0033,Other/Unbranded_pentium_Unk_Unk_14-16in,Other/Unbranded,Power Adapter,26.85,6.1,2.67
+SKU-0033,Other/Unbranded_pentium_Unk_Unk_14-16in,Other/Unbranded,TOTAL / MSRP,442.4,100.0,
+SKU-0034,Lenovo_i5_16GB_512GB_14-16in,Lenovo,Motherboard,280.83,36.2,9.96
+SKU-0034,Lenovo_i5_16GB_512GB_14-16in,Lenovo,Display Panel,167.26,21.6,2.37
+SKU-0034,Lenovo_i5_16GB_512GB_14-16in,Lenovo,Battery,56.85,7.3,3.65
+SKU-0034,Lenovo_i5_16GB_512GB_14-16in,Lenovo,RAM Module,47.26,6.1,0.98
+SKU-0034,Lenovo_i5_16GB_512GB_14-16in,Lenovo,Storage (SSD/HDD),79.41,10.2,1.9
+SKU-0034,Lenovo_i5_16GB_512GB_14-16in,Lenovo,Keyboard/Chassis,110.43,14.3,2.79
+SKU-0034,Lenovo_i5_16GB_512GB_14-16in,Lenovo,Power Adapter,49.03,6.3,2.4
+SKU-0034,Lenovo_i5_16GB_512GB_14-16in,Lenovo,TOTAL / MSRP,774.8,100.0,
+SKU-0035,Dell_celeron_4GB_32GB_Sub-12in,Dell,Motherboard,112.58,31.6,13.42
+SKU-0035,Dell_celeron_4GB_32GB_Sub-12in,Dell,Display Panel,78.04,21.9,2.26
+SKU-0035,Dell_celeron_4GB_32GB_Sub-12in,Dell,Battery,27.22,7.6,4.05
+SKU-0035,Dell_celeron_4GB_32GB_Sub-12in,Dell,RAM Module,20.2,5.7,1.04
+SKU-0035,Dell_celeron_4GB_32GB_Sub-12in,Dell,Storage (SSD/HDD),35.86,10.1,1.8
+SKU-0035,Dell_celeron_4GB_32GB_Sub-12in,Dell,Keyboard/Chassis,53.17,14.9,3.03
+SKU-0035,Dell_celeron_4GB_32GB_Sub-12in,Dell,Power Adapter,20.44,5.7,2.54
+SKU-0035,Dell_celeron_4GB_32GB_Sub-12in,Dell,TOTAL / MSRP,356.8,100.0,
+SKU-0036,Lenovo_i5_Unk_1TB_14-16in,Lenovo,Motherboard,229.23,31.5,6.89
+SKU-0036,Lenovo_i5_Unk_1TB_14-16in,Lenovo,Display Panel,151.97,20.9,2.6
+SKU-0036,Lenovo_i5_Unk_1TB_14-16in,Lenovo,Battery,62.98,8.7,3.9
+SKU-0036,Lenovo_i5_Unk_1TB_14-16in,Lenovo,RAM Module,39.67,5.5,0.9
+SKU-0036,Lenovo_i5_Unk_1TB_14-16in,Lenovo,Storage (SSD/HDD),66.74,9.2,2.16
+SKU-0036,Lenovo_i5_Unk_1TB_14-16in,Lenovo,Keyboard/Chassis,97.48,13.4,2.87
+SKU-0036,Lenovo_i5_Unk_1TB_14-16in,Lenovo,Power Adapter,44.58,6.1,2.84
+SKU-0036,Lenovo_i5_Unk_1TB_14-16in,Lenovo,TOTAL / MSRP,727.0,100.0,
+SKU-0037,Other/Unbranded_i3_Unk_256GB_12-14in,Other/Unbranded,Motherboard,176.34,32.1,10.31
+SKU-0037,Other/Unbranded_i3_Unk_256GB_12-14in,Other/Unbranded,Display Panel,129.27,23.5,2.76
+SKU-0037,Other/Unbranded_i3_Unk_256GB_12-14in,Other/Unbranded,Battery,42.54,7.7,4.33
+SKU-0037,Other/Unbranded_i3_Unk_256GB_12-14in,Other/Unbranded,RAM Module,32.02,5.8,0.97
+SKU-0037,Other/Unbranded_i3_Unk_256GB_12-14in,Other/Unbranded,Storage (SSD/HDD),54.28,9.9,1.85
+SKU-0037,Other/Unbranded_i3_Unk_256GB_12-14in,Other/Unbranded,Keyboard/Chassis,69.34,12.6,3.42
+SKU-0037,Other/Unbranded_i3_Unk_256GB_12-14in,Other/Unbranded,Power Adapter,32.08,5.8,2.19
+SKU-0037,Other/Unbranded_i3_Unk_256GB_12-14in,Other/Unbranded,TOTAL / MSRP,550.0,100.0,
+SKU-0038,Dell_i7_32GB_2TB_14-16in,Dell,Motherboard,422.45,31.9,12.25
+SKU-0038,Dell_i7_32GB_2TB_14-16in,Dell,Display Panel,299.83,22.6,2.69
+SKU-0038,Dell_i7_32GB_2TB_14-16in,Dell,Battery,113.49,8.6,3.7
+SKU-0038,Dell_i7_32GB_2TB_14-16in,Dell,RAM Module,82.63,6.2,0.87
+SKU-0038,Dell_i7_32GB_2TB_14-16in,Dell,Storage (SSD/HDD),138.05,10.4,2.26
+SKU-0038,Dell_i7_32GB_2TB_14-16in,Dell,Keyboard/Chassis,184.65,13.9,2.83
+SKU-0038,Dell_i7_32GB_2TB_14-16in,Dell,Power Adapter,76.34,5.8,2.82
+SKU-0038,Dell_i7_32GB_2TB_14-16in,Dell,TOTAL / MSRP,1326.0,100.0,
+SKU-0039,Other/Unbranded_i5_8GB_512GB_12-14in,Other/Unbranded,Motherboard,208.64,31.0,10.72
+SKU-0039,Other/Unbranded_i5_8GB_512GB_12-14in,Other/Unbranded,Display Panel,134.47,20.0,2.57
+SKU-0039,Other/Unbranded_i5_8GB_512GB_12-14in,Other/Unbranded,Battery,49.33,7.3,4.24
+SKU-0039,Other/Unbranded_i5_8GB_512GB_12-14in,Other/Unbranded,RAM Module,39.64,5.9,1.02
+SKU-0039,Other/Unbranded_i5_8GB_512GB_12-14in,Other/Unbranded,Storage (SSD/HDD),71.28,10.6,1.89
+SKU-0039,Other/Unbranded_i5_8GB_512GB_12-14in,Other/Unbranded,Keyboard/Chassis,92.92,13.8,3.34
+SKU-0039,Other/Unbranded_i5_8GB_512GB_12-14in,Other/Unbranded,Power Adapter,43.41,6.4,2.14
+SKU-0039,Other/Unbranded_i5_8GB_512GB_12-14in,Other/Unbranded,TOTAL / MSRP,673.6,100.0,
+SKU-0040,Lenovo_i7_16GB_2TB_14-16in,Lenovo,Motherboard,326.8,31.1,6.46
+SKU-0040,Lenovo_i7_16GB_2TB_14-16in,Lenovo,Display Panel,226.81,21.6,2.48
+SKU-0040,Lenovo_i7_16GB_2TB_14-16in,Lenovo,Battery,80.29,7.6,3.88
+SKU-0040,Lenovo_i7_16GB_2TB_14-16in,Lenovo,RAM Module,63.38,6.0,1.07
+SKU-0040,Lenovo_i7_16GB_2TB_14-16in,Lenovo,Storage (SSD/HDD),102.1,9.7,1.87
+SKU-0040,Lenovo_i7_16GB_2TB_14-16in,Lenovo,Keyboard/Chassis,133.74,12.7,2.57
+SKU-0040,Lenovo_i7_16GB_2TB_14-16in,Lenovo,Power Adapter,58.17,5.5,2.42
+SKU-0040,Lenovo_i7_16GB_2TB_14-16in,Lenovo,TOTAL / MSRP,1051.6,100.0,
+SKU-0041,Other/Unbranded_i5_Unk_256GB_12-14in,Other/Unbranded,Motherboard,224.04,33.4,12.02
+SKU-0041,Other/Unbranded_i5_Unk_256GB_12-14in,Other/Unbranded,Display Panel,159.3,23.8,2.87
+SKU-0041,Other/Unbranded_i5_Unk_256GB_12-14in,Other/Unbranded,Battery,50.72,7.6,4.53
+SKU-0041,Other/Unbranded_i5_Unk_256GB_12-14in,Other/Unbranded,RAM Module,42.86,6.4,0.89
+SKU-0041,Other/Unbranded_i5_Unk_256GB_12-14in,Other/Unbranded,Storage (SSD/HDD),63.25,9.4,1.81
+SKU-0041,Other/Unbranded_i5_Unk_256GB_12-14in,Other/Unbranded,Keyboard/Chassis,99.44,14.8,3.12
+SKU-0041,Other/Unbranded_i5_Unk_256GB_12-14in,Other/Unbranded,Power Adapter,43.64,6.5,2.87
+SKU-0041,Other/Unbranded_i5_Unk_256GB_12-14in,Other/Unbranded,TOTAL / MSRP,670.0,100.0,
+SKU-0042,Lenovo_i3_Unk_128GB_12-14in,Lenovo,Motherboard,198.84,37.4,9.65
+SKU-0042,Lenovo_i3_Unk_128GB_12-14in,Lenovo,Display Panel,110.58,20.8,2.53
+SKU-0042,Lenovo_i3_Unk_128GB_12-14in,Lenovo,Battery,45.63,8.6,3.95
+SKU-0042,Lenovo_i3_Unk_128GB_12-14in,Lenovo,RAM Module,31.77,6.0,0.86
+SKU-0042,Lenovo_i3_Unk_128GB_12-14in,Lenovo,Storage (SSD/HDD),56.49,10.6,2.09
+SKU-0042,Lenovo_i3_Unk_128GB_12-14in,Lenovo,Keyboard/Chassis,73.12,13.7,2.89
+SKU-0042,Lenovo_i3_Unk_128GB_12-14in,Lenovo,Power Adapter,29.04,5.5,2.52
+SKU-0042,Lenovo_i3_Unk_128GB_12-14in,Lenovo,TOTAL / MSRP,532.0,100.0,
+SKU-0043,Microsoft_i5_8GB_512GB_12-14in,Microsoft,Motherboard,258.65,36.4,9.95
+SKU-0043,Microsoft_i5_8GB_512GB_12-14in,Microsoft,Display Panel,169.09,23.8,2.55
+SKU-0043,Microsoft_i5_8GB_512GB_12-14in,Microsoft,Battery,57.61,8.1,3.72
+SKU-0043,Microsoft_i5_8GB_512GB_12-14in,Microsoft,RAM Module,45.79,6.4,0.92
+SKU-0043,Microsoft_i5_8GB_512GB_12-14in,Microsoft,Storage (SSD/HDD),74.04,10.4,2.2
+SKU-0043,Microsoft_i5_8GB_512GB_12-14in,Microsoft,Keyboard/Chassis,91.67,12.9,3.18
+SKU-0043,Microsoft_i5_8GB_512GB_12-14in,Microsoft,Power Adapter,45.9,6.5,2.78
+SKU-0043,Microsoft_i5_8GB_512GB_12-14in,Microsoft,TOTAL / MSRP,710.8,100.0,
+SKU-0044,Other/Unbranded_i5_Unk_256GB_14-16in,Other/Unbranded,Motherboard,215.44,32.2,5.1
+SKU-0044,Other/Unbranded_i5_Unk_256GB_14-16in,Other/Unbranded,Display Panel,157.19,23.5,2.51
+SKU-0044,Other/Unbranded_i5_Unk_256GB_14-16in,Other/Unbranded,Battery,49.14,7.3,3.79
+SKU-0044,Other/Unbranded_i5_Unk_256GB_14-16in,Other/Unbranded,RAM Module,38.27,5.7,1.04
+SKU-0044,Other/Unbranded_i5_Unk_256GB_14-16in,Other/Unbranded,Storage (SSD/HDD),62.02,9.3,1.87
+SKU-0044,Other/Unbranded_i5_Unk_256GB_14-16in,Other/Unbranded,Keyboard/Chassis,102.49,15.3,2.86
+SKU-0044,Other/Unbranded_i5_Unk_256GB_14-16in,Other/Unbranded,Power Adapter,42.24,6.3,2.72
+SKU-0044,Other/Unbranded_i5_Unk_256GB_14-16in,Other/Unbranded,TOTAL / MSRP,670.0,100.0,
+SKU-0045,HP_i7_16GB_512GB_14-16in,HP,Motherboard,344.59,35.4,4.39
+SKU-0045,HP_i7_16GB_512GB_14-16in,HP,Display Panel,195.13,20.1,2.18
+SKU-0045,HP_i7_16GB_512GB_14-16in,HP,Battery,85.21,8.8,4.56
+SKU-0045,HP_i7_16GB_512GB_14-16in,HP,RAM Module,59.48,6.1,0.97
+SKU-0045,HP_i7_16GB_512GB_14-16in,HP,Storage (SSD/HDD),93.87,9.6,1.99
+SKU-0045,HP_i7_16GB_512GB_14-16in,HP,Keyboard/Chassis,134.75,13.8,2.8
+SKU-0045,HP_i7_16GB_512GB_14-16in,HP,Power Adapter,53.74,5.5,2.77
+SKU-0045,HP_i7_16GB_512GB_14-16in,HP,TOTAL / MSRP,973.0,100.0,
+SKU-0046,HP_i5_8GB_256GB_14-16in,HP,Motherboard,209.52,31.2,10.59
+SKU-0046,HP_i5_8GB_256GB_14-16in,HP,Display Panel,158.82,23.6,2.85
+SKU-0046,HP_i5_8GB_256GB_14-16in,HP,Battery,58.56,8.7,3.9
+SKU-0046,HP_i5_8GB_256GB_14-16in,HP,RAM Module,42.44,6.3,0.98
+SKU-0046,HP_i5_8GB_256GB_14-16in,HP,Storage (SSD/HDD),63.61,9.5,1.83
+SKU-0046,HP_i5_8GB_256GB_14-16in,HP,Keyboard/Chassis,98.18,14.6,3.06
+SKU-0046,HP_i5_8GB_256GB_14-16in,HP,Power Adapter,44.12,6.6,2.26
+SKU-0046,HP_i5_8GB_256GB_14-16in,HP,TOTAL / MSRP,672.4,100.0,
+SKU-0047,Dell_i5_Unk_Unk_14-16in,Dell,Motherboard,230.0,34.2,4.9
+SKU-0047,Dell_i5_Unk_Unk_14-16in,Dell,Display Panel,134.1,19.9,2.82
+SKU-0047,Dell_i5_Unk_Unk_14-16in,Dell,Battery,53.38,7.9,3.4
+SKU-0047,Dell_i5_Unk_Unk_14-16in,Dell,RAM Module,38.31,5.7,1.02
+SKU-0047,Dell_i5_Unk_Unk_14-16in,Dell,Storage (SSD/HDD),68.34,10.2,1.86
+SKU-0047,Dell_i5_Unk_Unk_14-16in,Dell,Keyboard/Chassis,103.25,15.4,2.68
+SKU-0047,Dell_i5_Unk_Unk_14-16in,Dell,Power Adapter,39.48,5.9,2.48
+SKU-0047,Dell_i5_Unk_Unk_14-16in,Dell,TOTAL / MSRP,672.4,100.0,
+SKU-0048,Dell_i5_16GB_256GB_14-16in,Dell,Motherboard,261.18,37.1,10.95
+SKU-0048,Dell_i5_16GB_256GB_14-16in,Dell,Display Panel,142.72,20.3,2.31
+SKU-0048,Dell_i5_16GB_256GB_14-16in,Dell,Battery,50.92,7.2,3.98
+SKU-0048,Dell_i5_16GB_256GB_14-16in,Dell,RAM Module,42.77,6.1,0.85
+SKU-0048,Dell_i5_16GB_256GB_14-16in,Dell,Storage (SSD/HDD),70.92,10.1,2.23
+SKU-0048,Dell_i5_16GB_256GB_14-16in,Dell,Keyboard/Chassis,90.3,12.8,2.91
+SKU-0048,Dell_i5_16GB_256GB_14-16in,Dell,Power Adapter,39.74,5.6,2.64
+SKU-0048,Dell_i5_16GB_256GB_14-16in,Dell,TOTAL / MSRP,704.4,100.0,
+SKU-0049,Dell_i7_16GB_1TB_14-16in,Dell,Motherboard,366.04,34.9,6.2
+SKU-0049,Dell_i7_16GB_1TB_14-16in,Dell,Display Panel,235.94,22.5,2.58
+SKU-0049,Dell_i7_16GB_1TB_14-16in,Dell,Battery,90.06,8.6,4.26
+SKU-0049,Dell_i7_16GB_1TB_14-16in,Dell,RAM Module,66.84,6.4,0.87
+SKU-0049,Dell_i7_16GB_1TB_14-16in,Dell,Storage (SSD/HDD),106.84,10.2,2.17
+SKU-0049,Dell_i7_16GB_1TB_14-16in,Dell,Keyboard/Chassis,136.86,13.1,2.94
+SKU-0049,Dell_i7_16GB_1TB_14-16in,Dell,Power Adapter,59.7,5.7,2.24
+SKU-0049,Dell_i7_16GB_1TB_14-16in,Dell,TOTAL / MSRP,1048.0,100.0,
+SKU-0050,Dell_i5_8GB_256GB_12-14in,Dell,Motherboard,214.08,31.8,13.38
+SKU-0050,Dell_i5_8GB_256GB_12-14in,Dell,Display Panel,137.92,20.5,2.14
+SKU-0050,Dell_i5_8GB_256GB_12-14in,Dell,Battery,59.13,8.8,4.57
+SKU-0050,Dell_i5_8GB_256GB_12-14in,Dell,RAM Module,39.56,5.9,0.92
+SKU-0050,Dell_i5_8GB_256GB_12-14in,Dell,Storage (SSD/HDD),63.98,9.5,1.98
+SKU-0050,Dell_i5_8GB_256GB_12-14in,Dell,Keyboard/Chassis,92.55,13.8,3.31
+SKU-0050,Dell_i5_8GB_256GB_12-14in,Dell,Power Adapter,39.3,5.8,2.87
+SKU-0050,Dell_i5_8GB_256GB_12-14in,Dell,TOTAL / MSRP,672.4,100.0,
+SKU-0051,Lenovo_i3_Unk_1TB_14-16in,Lenovo,Motherboard,202.66,30.8,8.34
+SKU-0051,Lenovo_i3_Unk_1TB_14-16in,Lenovo,Display Panel,156.36,23.8,2.44
+SKU-0051,Lenovo_i3_Unk_1TB_14-16in,Lenovo,Battery,50.36,7.7,3.83
+SKU-0051,Lenovo_i3_Unk_1TB_14-16in,Lenovo,RAM Module,40.52,6.2,1.07
+SKU-0051,Lenovo_i3_Unk_1TB_14-16in,Lenovo,Storage (SSD/HDD),64.55,9.8,2.06
+SKU-0051,Lenovo_i3_Unk_1TB_14-16in,Lenovo,Keyboard/Chassis,100.8,15.3,2.71
+SKU-0051,Lenovo_i3_Unk_1TB_14-16in,Lenovo,Power Adapter,38.98,5.9,2.2
+SKU-0051,Lenovo_i3_Unk_1TB_14-16in,Lenovo,TOTAL / MSRP,658.0,100.0,
+SKU-0052,Dell_i7_Unk_Unk_14-16in,Dell,Motherboard,302.13,34.6,7.75
+SKU-0052,Dell_i7_Unk_Unk_14-16in,Dell,Display Panel,188.05,21.6,2.77
+SKU-0052,Dell_i7_Unk_Unk_14-16in,Dell,Battery,73.61,8.4,3.56
+SKU-0052,Dell_i7_Unk_Unk_14-16in,Dell,RAM Module,49.57,5.7,1.12
+SKU-0052,Dell_i7_Unk_Unk_14-16in,Dell,Storage (SSD/HDD),87.59,10.0,1.9
+SKU-0052,Dell_i7_Unk_Unk_14-16in,Dell,Keyboard/Chassis,120.9,13.9,3.08
+SKU-0052,Dell_i7_Unk_Unk_14-16in,Dell,Power Adapter,48.86,5.6,2.25
+SKU-0052,Dell_i7_Unk_Unk_14-16in,Dell,TOTAL / MSRP,872.4,100.0,
+SKU-0053,Lenovo_i5_Unk_256GB_12-14in,Lenovo,Motherboard,240.64,35.9,7.81
+SKU-0053,Lenovo_i5_Unk_256GB_12-14in,Lenovo,Display Panel,158.26,23.6,2.28
+SKU-0053,Lenovo_i5_Unk_256GB_12-14in,Lenovo,Battery,58.82,8.8,3.55
+SKU-0053,Lenovo_i5_Unk_256GB_12-14in,Lenovo,RAM Module,36.5,5.4,0.89
+SKU-0053,Lenovo_i5_Unk_256GB_12-14in,Lenovo,Storage (SSD/HDD),61.49,9.2,1.76
+SKU-0053,Lenovo_i5_Unk_256GB_12-14in,Lenovo,Keyboard/Chassis,87.2,13.0,3.44
+SKU-0053,Lenovo_i5_Unk_256GB_12-14in,Lenovo,Power Adapter,36.32,5.4,2.37
+SKU-0053,Lenovo_i5_Unk_256GB_12-14in,Lenovo,TOTAL / MSRP,670.0,100.0,
+SKU-0054,Dell_i7_16GB_512GB_12-14in,Dell,Motherboard,330.69,33.9,8.55
+SKU-0054,Dell_i7_16GB_512GB_12-14in,Dell,Display Panel,199.17,20.4,2.83
+SKU-0054,Dell_i7_16GB_512GB_12-14in,Dell,Battery,85.31,8.8,3.51
+SKU-0054,Dell_i7_16GB_512GB_12-14in,Dell,RAM Module,55.38,5.7,1.14
+SKU-0054,Dell_i7_16GB_512GB_12-14in,Dell,Storage (SSD/HDD),104.07,10.7,2.27
+SKU-0054,Dell_i7_16GB_512GB_12-14in,Dell,Keyboard/Chassis,129.49,13.3,3.3
+SKU-0054,Dell_i7_16GB_512GB_12-14in,Dell,Power Adapter,52.99,5.4,2.82
+SKU-0054,Dell_i7_16GB_512GB_12-14in,Dell,TOTAL / MSRP,974.8,100.0,
+SKU-0055,Lenovo_i5_16GB_256GB_14-16in,Lenovo,Motherboard,266.74,36.2,9.77
+SKU-0055,Lenovo_i5_16GB_256GB_14-16in,Lenovo,Display Panel,150.97,20.5,2.58
+SKU-0055,Lenovo_i5_16GB_256GB_14-16in,Lenovo,Battery,57.82,7.9,4.44
+SKU-0055,Lenovo_i5_16GB_256GB_14-16in,Lenovo,RAM Module,42.32,5.7,0.88
+SKU-0055,Lenovo_i5_16GB_256GB_14-16in,Lenovo,Storage (SSD/HDD),71.09,9.7,2.1
+SKU-0055,Lenovo_i5_16GB_256GB_14-16in,Lenovo,Keyboard/Chassis,110.89,15.1,2.84
+SKU-0055,Lenovo_i5_16GB_256GB_14-16in,Lenovo,Power Adapter,40.83,5.5,2.53
+SKU-0055,Lenovo_i5_16GB_256GB_14-16in,Lenovo,TOTAL / MSRP,736.4,100.0,
+SKU-0056,HP_i3_8GB_512GB_14-16in,HP,Motherboard,203.42,34.4,9.2
+SKU-0056,HP_i3_8GB_512GB_14-16in,HP,Display Panel,123.15,20.8,2.4
+SKU-0056,HP_i3_8GB_512GB_14-16in,HP,Battery,48.09,8.1,3.6
+SKU-0056,HP_i3_8GB_512GB_14-16in,HP,RAM Module,35.19,6.0,0.96
+SKU-0056,HP_i3_8GB_512GB_14-16in,HP,Storage (SSD/HDD),63.18,10.7,2.25
+SKU-0056,HP_i3_8GB_512GB_14-16in,HP,Keyboard/Chassis,80.73,13.7,2.91
+SKU-0056,HP_i3_8GB_512GB_14-16in,HP,Power Adapter,35.28,6.0,2.42
+SKU-0056,HP_i3_8GB_512GB_14-16in,HP,TOTAL / MSRP,590.8,100.0,
+SKU-0057,Dell_i5_Unk_512GB_Sub-12in,Dell,Motherboard,216.91,30.7,9.31
+SKU-0057,Dell_i5_Unk_512GB_Sub-12in,Dell,Display Panel,142.0,20.1,2.84
+SKU-0057,Dell_i5_Unk_512GB_Sub-12in,Dell,Battery,51.51,7.3,4.52
+SKU-0057,Dell_i5_Unk_512GB_Sub-12in,Dell,RAM Module,39.53,5.6,1.04
+SKU-0057,Dell_i5_Unk_512GB_Sub-12in,Dell,Storage (SSD/HDD),67.88,9.6,2.18
+SKU-0057,Dell_i5_Unk_512GB_Sub-12in,Dell,Keyboard/Chassis,90.73,12.9,3.2
+SKU-0057,Dell_i5_Unk_512GB_Sub-12in,Dell,Power Adapter,41.63,5.9,2.22
+SKU-0057,Dell_i5_Unk_512GB_Sub-12in,Dell,TOTAL / MSRP,706.0,100.0,
+SKU-0058,Other/Unbranded_i5_Unk_128GB_14-16in,Other/Unbranded,Motherboard,207.7,31.9,10.68
+SKU-0058,Other/Unbranded_i5_Unk_128GB_14-16in,Other/Unbranded,Display Panel,155.42,23.8,2.44
+SKU-0058,Other/Unbranded_i5_Unk_128GB_14-16in,Other/Unbranded,Battery,52.68,8.1,3.45
+SKU-0058,Other/Unbranded_i5_Unk_128GB_14-16in,Other/Unbranded,RAM Module,39.92,6.1,1.1
+SKU-0058,Other/Unbranded_i5_Unk_128GB_14-16in,Other/Unbranded,Storage (SSD/HDD),69.03,10.6,2.09
+SKU-0058,Other/Unbranded_i5_Unk_128GB_14-16in,Other/Unbranded,Keyboard/Chassis,97.48,15.0,3.36
+SKU-0058,Other/Unbranded_i5_Unk_128GB_14-16in,Other/Unbranded,Power Adapter,37.21,5.7,2.35
+SKU-0058,Other/Unbranded_i5_Unk_128GB_14-16in,Other/Unbranded,TOTAL / MSRP,652.0,100.0,
+SKU-0059,Acer_celeron_4GB_32GB_Sub-12in,Acer,Motherboard,111.5,31.2,8.18
+SKU-0059,Acer_celeron_4GB_32GB_Sub-12in,Acer,Display Panel,73.05,20.5,2.3
+SKU-0059,Acer_celeron_4GB_32GB_Sub-12in,Acer,Battery,26.93,7.5,3.51
+SKU-0059,Acer_celeron_4GB_32GB_Sub-12in,Acer,RAM Module,20.25,5.7,0.91
+SKU-0059,Acer_celeron_4GB_32GB_Sub-12in,Acer,Storage (SSD/HDD),34.9,9.8,2.06
+SKU-0059,Acer_celeron_4GB_32GB_Sub-12in,Acer,Keyboard/Chassis,47.7,13.4,3.09
+SKU-0059,Acer_celeron_4GB_32GB_Sub-12in,Acer,Power Adapter,21.1,5.9,2.66
+SKU-0059,Acer_celeron_4GB_32GB_Sub-12in,Acer,TOTAL / MSRP,356.8,100.0,
+SKU-0060,Acer_celeron_4GB_64GB_Sub-12in,Acer,Motherboard,125.48,34.7,6.88
+SKU-0060,Acer_celeron_4GB_64GB_Sub-12in,Acer,Display Panel,72.86,20.1,2.19
+SKU-0060,Acer_celeron_4GB_64GB_Sub-12in,Acer,Battery,28.36,7.8,3.84
+SKU-0060,Acer_celeron_4GB_64GB_Sub-12in,Acer,RAM Module,19.83,5.5,1.01
+SKU-0060,Acer_celeron_4GB_64GB_Sub-12in,Acer,Storage (SSD/HDD),33.05,9.1,2.08
+SKU-0060,Acer_celeron_4GB_64GB_Sub-12in,Acer,Keyboard/Chassis,52.15,14.4,3.03
+SKU-0060,Acer_celeron_4GB_64GB_Sub-12in,Acer,Power Adapter,20.35,5.6,2.16
+SKU-0060,Acer_celeron_4GB_64GB_Sub-12in,Acer,TOTAL / MSRP,361.6,100.0,
+SKU-0061,Other/Unbranded_i3_Unk_128GB_12-14in,Other/Unbranded,Motherboard,179.62,33.8,7.78
+SKU-0061,Other/Unbranded_i3_Unk_128GB_12-14in,Other/Unbranded,Display Panel,127.85,24.0,2.6
+SKU-0061,Other/Unbranded_i3_Unk_128GB_12-14in,Other/Unbranded,Battery,42.86,8.1,3.52
+SKU-0061,Other/Unbranded_i3_Unk_128GB_12-14in,Other/Unbranded,RAM Module,28.74,5.4,0.94
+SKU-0061,Other/Unbranded_i3_Unk_128GB_12-14in,Other/Unbranded,Storage (SSD/HDD),57.75,10.9,1.84
+SKU-0061,Other/Unbranded_i3_Unk_128GB_12-14in,Other/Unbranded,Keyboard/Chassis,67.33,12.7,3.21
+SKU-0061,Other/Unbranded_i3_Unk_128GB_12-14in,Other/Unbranded,Power Adapter,34.1,6.4,2.52
+SKU-0061,Other/Unbranded_i3_Unk_128GB_12-14in,Other/Unbranded,TOTAL / MSRP,532.0,100.0,
+SKU-0062,Lenovo_i5_16GB_2TB_14-16in,Lenovo,Motherboard,284.71,34.7,10.83
+SKU-0062,Lenovo_i5_16GB_2TB_14-16in,Lenovo,Display Panel,166.52,20.3,2.3
+SKU-0062,Lenovo_i5_16GB_2TB_14-16in,Lenovo,Battery,60.16,7.3,4.52
+SKU-0062,Lenovo_i5_16GB_2TB_14-16in,Lenovo,RAM Module,52.38,6.4,0.93
+SKU-0062,Lenovo_i5_16GB_2TB_14-16in,Lenovo,Storage (SSD/HDD),82.22,10.0,2.25
+SKU-0062,Lenovo_i5_16GB_2TB_14-16in,Lenovo,Keyboard/Chassis,116.27,14.2,2.9
+SKU-0062,Lenovo_i5_16GB_2TB_14-16in,Lenovo,Power Adapter,45.4,5.5,2.74
+SKU-0062,Lenovo_i5_16GB_2TB_14-16in,Lenovo,TOTAL / MSRP,819.6,100.0,
+SKU-0063,HP_i7_8GB_512GB_14-16in,HP,Motherboard,287.45,31.6,8.0
+SKU-0063,HP_i7_8GB_512GB_14-16in,HP,Display Panel,196.49,21.6,2.26
+SKU-0063,HP_i7_8GB_512GB_14-16in,HP,Battery,79.53,8.7,4.09
+SKU-0063,HP_i7_8GB_512GB_14-16in,HP,RAM Module,50.63,5.6,1.11
+SKU-0063,HP_i7_8GB_512GB_14-16in,HP,Storage (SSD/HDD),84.51,9.3,2.24
+SKU-0063,HP_i7_8GB_512GB_14-16in,HP,Keyboard/Chassis,127.58,14.0,2.91
+SKU-0063,HP_i7_8GB_512GB_14-16in,HP,Power Adapter,50.51,5.5,2.48
+SKU-0063,HP_i7_8GB_512GB_14-16in,HP,TOTAL / MSRP,910.8,100.0,
+SKU-0064,Dell_i5_Unk_512GB_12-14in,Dell,Motherboard,262.4,37.2,11.96
+SKU-0064,Dell_i5_Unk_512GB_12-14in,Dell,Display Panel,167.0,23.7,2.33
+SKU-0064,Dell_i5_Unk_512GB_12-14in,Dell,Battery,53.27,7.5,4.14
+SKU-0064,Dell_i5_Unk_512GB_12-14in,Dell,RAM Module,41.4,5.9,1.02
+SKU-0064,Dell_i5_Unk_512GB_12-14in,Dell,Storage (SSD/HDD),64.36,9.1,2.3
+SKU-0064,Dell_i5_Unk_512GB_12-14in,Dell,Keyboard/Chassis,94.83,13.4,2.94
+SKU-0064,Dell_i5_Unk_512GB_12-14in,Dell,Power Adapter,39.15,5.5,2.35
+SKU-0064,Dell_i5_Unk_512GB_12-14in,Dell,TOTAL / MSRP,706.0,100.0,
+SKU-0065,Dell_i5_8GB_Unk_14-16in,Dell,Motherboard,234.71,34.9,9.22
+SKU-0065,Dell_i5_8GB_Unk_14-16in,Dell,Display Panel,138.28,20.6,2.62
+SKU-0065,Dell_i5_8GB_Unk_14-16in,Dell,Battery,49.82,7.4,4.46
+SKU-0065,Dell_i5_8GB_Unk_14-16in,Dell,RAM Module,39.28,5.8,0.97
+SKU-0065,Dell_i5_8GB_Unk_14-16in,Dell,Storage (SSD/HDD),65.72,9.8,2.28
+SKU-0065,Dell_i5_8GB_Unk_14-16in,Dell,Keyboard/Chassis,92.6,13.8,3.26
+SKU-0065,Dell_i5_8GB_Unk_14-16in,Dell,Power Adapter,37.42,5.6,2.53
+SKU-0065,Dell_i5_8GB_Unk_14-16in,Dell,TOTAL / MSRP,672.4,100.0,
+SKU-0066,HP_i5_Unk_Unk_14-16in,HP,Motherboard,214.85,32.0,9.71
+SKU-0066,HP_i5_Unk_Unk_14-16in,HP,Display Panel,136.38,20.3,2.54
+SKU-0066,HP_i5_Unk_Unk_14-16in,HP,Battery,51.27,7.6,3.58
+SKU-0066,HP_i5_Unk_Unk_14-16in,HP,RAM Module,38.93,5.8,1.07
+SKU-0066,HP_i5_Unk_Unk_14-16in,HP,Storage (SSD/HDD),68.77,10.2,2.22
+SKU-0066,HP_i5_Unk_Unk_14-16in,HP,Keyboard/Chassis,101.52,15.1,3.41
+SKU-0066,HP_i5_Unk_Unk_14-16in,HP,Power Adapter,43.92,6.5,2.73
+SKU-0066,HP_i5_Unk_Unk_14-16in,HP,TOTAL / MSRP,672.4,100.0,
+SKU-0067,Dell_i5_16GB_1TB_14-16in,Dell,Motherboard,311.49,36.7,11.1
+SKU-0067,Dell_i5_16GB_1TB_14-16in,Dell,Display Panel,182.32,21.5,2.46
+SKU-0067,Dell_i5_16GB_1TB_14-16in,Dell,Battery,61.96,7.3,4.02
+SKU-0067,Dell_i5_16GB_1TB_14-16in,Dell,RAM Module,55.85,6.6,0.98
+SKU-0067,Dell_i5_16GB_1TB_14-16in,Dell,Storage (SSD/HDD),77.76,9.2,2.13
+SKU-0067,Dell_i5_16GB_1TB_14-16in,Dell,Keyboard/Chassis,109.35,12.9,2.58
+SKU-0067,Dell_i5_16GB_1TB_14-16in,Dell,Power Adapter,49.39,5.8,2.35
+SKU-0067,Dell_i5_16GB_1TB_14-16in,Dell,TOTAL / MSRP,848.0,100.0,
+SKU-0068,Other/Unbranded_celeron_8GB_512GB_14-16in,Other/Unbranded,Motherboard,152.12,33.0,11.72
+SKU-0068,Other/Unbranded_celeron_8GB_512GB_14-16in,Other/Unbranded,Display Panel,106.74,23.2,2.32
+SKU-0068,Other/Unbranded_celeron_8GB_512GB_14-16in,Other/Unbranded,Battery,36.97,8.0,4.48
+SKU-0068,Other/Unbranded_celeron_8GB_512GB_14-16in,Other/Unbranded,RAM Module,28.34,6.1,0.96
+SKU-0068,Other/Unbranded_celeron_8GB_512GB_14-16in,Other/Unbranded,Storage (SSD/HDD),43.83,9.5,1.86
+SKU-0068,Other/Unbranded_celeron_8GB_512GB_14-16in,Other/Unbranded,Keyboard/Chassis,64.9,14.1,2.59
+SKU-0068,Other/Unbranded_celeron_8GB_512GB_14-16in,Other/Unbranded,Power Adapter,25.58,5.6,2.48
+SKU-0068,Other/Unbranded_celeron_8GB_512GB_14-16in,Other/Unbranded,TOTAL / MSRP,460.8,100.0,
+SKU-0069,Dell_celeron_4GB_256GB_Sub-12in,Dell,Motherboard,141.01,36.1,9.59
+SKU-0069,Dell_celeron_4GB_256GB_Sub-12in,Dell,Display Panel,79.2,20.3,2.57
+SKU-0069,Dell_celeron_4GB_256GB_Sub-12in,Dell,Battery,30.81,7.9,3.93
+SKU-0069,Dell_celeron_4GB_256GB_Sub-12in,Dell,RAM Module,22.36,5.7,1.13
+SKU-0069,Dell_celeron_4GB_256GB_Sub-12in,Dell,Storage (SSD/HDD),42.06,10.8,2.09
+SKU-0069,Dell_celeron_4GB_256GB_Sub-12in,Dell,Keyboard/Chassis,52.65,13.5,3.34
+SKU-0069,Dell_celeron_4GB_256GB_Sub-12in,Dell,Power Adapter,22.26,5.7,2.69
+SKU-0069,Dell_celeron_4GB_256GB_Sub-12in,Dell,TOTAL / MSRP,390.4,100.0,
+SKU-0070,Dell_i5_8GB_512GB_12-14in,Dell,Motherboard,226.23,31.8,9.08
+SKU-0070,Dell_i5_8GB_512GB_12-14in,Dell,Display Panel,171.53,24.1,2.83
+SKU-0070,Dell_i5_8GB_512GB_12-14in,Dell,Battery,52.41,7.4,4.22
+SKU-0070,Dell_i5_8GB_512GB_12-14in,Dell,RAM Module,40.2,5.7,1.0
+SKU-0070,Dell_i5_8GB_512GB_12-14in,Dell,Storage (SSD/HDD),69.85,9.8,2.15
+SKU-0070,Dell_i5_8GB_512GB_12-14in,Dell,Keyboard/Chassis,95.48,13.4,3.06
+SKU-0070,Dell_i5_8GB_512GB_12-14in,Dell,Power Adapter,43.31,6.1,2.78
+SKU-0070,Dell_i5_8GB_512GB_12-14in,Dell,TOTAL / MSRP,710.8,100.0,
+SKU-0071,Lenovo_i5_32GB_2TB_14-16in,Lenovo,Motherboard,332.46,32.3,8.75
+SKU-0071,Lenovo_i5_32GB_2TB_14-16in,Lenovo,Display Panel,212.73,20.7,2.78
+SKU-0071,Lenovo_i5_32GB_2TB_14-16in,Lenovo,Battery,83.31,8.1,4.28
+SKU-0071,Lenovo_i5_32GB_2TB_14-16in,Lenovo,RAM Module,64.12,6.2,0.96
+SKU-0071,Lenovo_i5_32GB_2TB_14-16in,Lenovo,Storage (SSD/HDD),92.81,9.0,2.16
+SKU-0071,Lenovo_i5_32GB_2TB_14-16in,Lenovo,Keyboard/Chassis,130.1,12.6,3.22
+SKU-0071,Lenovo_i5_32GB_2TB_14-16in,Lenovo,Power Adapter,59.66,5.8,2.24
+SKU-0071,Lenovo_i5_32GB_2TB_14-16in,Lenovo,TOTAL / MSRP,1030.0,100.0,
+SKU-0072,HP_i7_16GB_2TB_14-16in,HP,Motherboard,349.35,33.2,8.88
+SKU-0072,HP_i7_16GB_2TB_14-16in,HP,Display Panel,235.66,22.4,2.42
+SKU-0072,HP_i7_16GB_2TB_14-16in,HP,Battery,78.72,7.5,3.43
+SKU-0072,HP_i7_16GB_2TB_14-16in,HP,RAM Module,61.68,5.9,0.97
+SKU-0072,HP_i7_16GB_2TB_14-16in,HP,Storage (SSD/HDD),108.15,10.3,1.74
+SKU-0072,HP_i7_16GB_2TB_14-16in,HP,Keyboard/Chassis,153.2,14.6,2.6
+SKU-0072,HP_i7_16GB_2TB_14-16in,HP,Power Adapter,66.94,6.4,2.33
+SKU-0072,HP_i7_16GB_2TB_14-16in,HP,TOTAL / MSRP,1051.6,100.0,
+SKU-0073,Dell_i7_16GB_2TB_12-14in,Dell,Motherboard,371.52,35.3,10.3
+SKU-0073,Dell_i7_16GB_2TB_12-14in,Dell,Display Panel,244.71,23.3,2.51
+SKU-0073,Dell_i7_16GB_2TB_12-14in,Dell,Battery,77.77,7.4,4.28
+SKU-0073,Dell_i7_16GB_2TB_12-14in,Dell,RAM Module,57.58,5.5,1.09
+SKU-0073,Dell_i7_16GB_2TB_12-14in,Dell,Storage (SSD/HDD),114.27,10.9,2.09
+SKU-0073,Dell_i7_16GB_2TB_12-14in,Dell,Keyboard/Chassis,147.11,14.0,2.71
+SKU-0073,Dell_i7_16GB_2TB_12-14in,Dell,Power Adapter,67.38,6.4,2.41
+SKU-0073,Dell_i7_16GB_2TB_12-14in,Dell,TOTAL / MSRP,1051.6,100.0,
+SKU-0074,Lenovo_i3_8GB_256GB_14-16in,Lenovo,Motherboard,205.83,37.3,5.51
+SKU-0074,Lenovo_i3_8GB_256GB_14-16in,Lenovo,Display Panel,129.59,23.5,2.33
+SKU-0074,Lenovo_i3_8GB_256GB_14-16in,Lenovo,Battery,46.69,8.5,3.47
+SKU-0074,Lenovo_i3_8GB_256GB_14-16in,Lenovo,RAM Module,35.61,6.4,1.1
+SKU-0074,Lenovo_i3_8GB_256GB_14-16in,Lenovo,Storage (SSD/HDD),54.52,9.9,2.26
+SKU-0074,Lenovo_i3_8GB_256GB_14-16in,Lenovo,Keyboard/Chassis,70.85,12.8,3.21
+SKU-0074,Lenovo_i3_8GB_256GB_14-16in,Lenovo,Power Adapter,35.0,6.3,2.13
+SKU-0074,Lenovo_i3_8GB_256GB_14-16in,Lenovo,TOTAL / MSRP,552.4,100.0,
+SKU-0075,Dell_i5_4GB_256GB_14-16in,Dell,Motherboard,227.83,35.7,9.82
+SKU-0075,Dell_i5_4GB_256GB_14-16in,Dell,Display Panel,134.26,21.0,2.16
+SKU-0075,Dell_i5_4GB_256GB_14-16in,Dell,Battery,48.46,7.6,4.49
+SKU-0075,Dell_i5_4GB_256GB_14-16in,Dell,RAM Module,37.29,5.8,0.98
+SKU-0075,Dell_i5_4GB_256GB_14-16in,Dell,Storage (SSD/HDD),58.25,9.1,1.99
+SKU-0075,Dell_i5_4GB_256GB_14-16in,Dell,Keyboard/Chassis,91.46,14.3,3.06
+SKU-0075,Dell_i5_4GB_256GB_14-16in,Dell,Power Adapter,37.6,5.9,2.39
+SKU-0075,Dell_i5_4GB_256GB_14-16in,Dell,TOTAL / MSRP,638.0,100.0,
+SKU-0076,Lenovo_i3_Unk_256GB_14-16in,Lenovo,Motherboard,173.84,31.5,11.55
+SKU-0076,Lenovo_i3_Unk_256GB_14-16in,Lenovo,Display Panel,119.55,21.6,2.32
+SKU-0076,Lenovo_i3_Unk_256GB_14-16in,Lenovo,Battery,42.04,7.6,4.19
+SKU-0076,Lenovo_i3_Unk_256GB_14-16in,Lenovo,RAM Module,32.07,5.8,0.94
+SKU-0076,Lenovo_i3_Unk_256GB_14-16in,Lenovo,Storage (SSD/HDD),53.58,9.7,1.77
+SKU-0076,Lenovo_i3_Unk_256GB_14-16in,Lenovo,Keyboard/Chassis,76.07,13.8,2.63
+SKU-0076,Lenovo_i3_Unk_256GB_14-16in,Lenovo,Power Adapter,33.3,6.0,2.21
+SKU-0076,Lenovo_i3_Unk_256GB_14-16in,Lenovo,TOTAL / MSRP,552.4,100.0,
+SKU-0077,Other/Unbranded_i5_Unk_512GB_14-16in,Other/Unbranded,Motherboard,242.13,34.3,4.41
+SKU-0077,Other/Unbranded_i5_Unk_512GB_14-16in,Other/Unbranded,Display Panel,153.1,21.7,2.23
+SKU-0077,Other/Unbranded_i5_Unk_512GB_14-16in,Other/Unbranded,Battery,58.39,8.3,3.95
+SKU-0077,Other/Unbranded_i5_Unk_512GB_14-16in,Other/Unbranded,RAM Module,42.74,6.1,0.87
+SKU-0077,Other/Unbranded_i5_Unk_512GB_14-16in,Other/Unbranded,Storage (SSD/HDD),77.35,11.0,2.18
+SKU-0077,Other/Unbranded_i5_Unk_512GB_14-16in,Other/Unbranded,Keyboard/Chassis,94.07,13.3,2.7
+SKU-0077,Other/Unbranded_i5_Unk_512GB_14-16in,Other/Unbranded,Power Adapter,44.51,6.3,2.14
+SKU-0077,Other/Unbranded_i5_Unk_512GB_14-16in,Other/Unbranded,TOTAL / MSRP,706.0,100.0,
+SKU-0078,Other/Unbranded_i7_Unk_256GB_14-16in,Other/Unbranded,Motherboard,280.35,32.2,11.37
+SKU-0078,Other/Unbranded_i7_Unk_256GB_14-16in,Other/Unbranded,Display Panel,193.62,22.3,2.54
+SKU-0078,Other/Unbranded_i7_Unk_256GB_14-16in,Other/Unbranded,Battery,75.3,8.7,4.05
+SKU-0078,Other/Unbranded_i7_Unk_256GB_14-16in,Other/Unbranded,RAM Module,50.86,5.8,0.99
+SKU-0078,Other/Unbranded_i7_Unk_256GB_14-16in,Other/Unbranded,Storage (SSD/HDD),91.8,10.6,2.28
+SKU-0078,Other/Unbranded_i7_Unk_256GB_14-16in,Other/Unbranded,Keyboard/Chassis,111.91,12.9,2.87
+SKU-0078,Other/Unbranded_i7_Unk_256GB_14-16in,Other/Unbranded,Power Adapter,53.61,6.2,2.72
+SKU-0078,Other/Unbranded_i7_Unk_256GB_14-16in,Other/Unbranded,TOTAL / MSRP,870.0,100.0,
+SKU-0079,Dell_i5_8GB_2TB_14-16in,Dell,Motherboard,264.98,33.6,11.88
+SKU-0079,Dell_i5_8GB_2TB_14-16in,Dell,Display Panel,185.65,23.6,2.8
+SKU-0079,Dell_i5_8GB_2TB_14-16in,Dell,Battery,63.1,8.0,4.12
+SKU-0079,Dell_i5_8GB_2TB_14-16in,Dell,RAM Module,50.98,6.5,1.05
+SKU-0079,Dell_i5_8GB_2TB_14-16in,Dell,Storage (SSD/HDD),83.46,10.6,2.28
+SKU-0079,Dell_i5_8GB_2TB_14-16in,Dell,Keyboard/Chassis,116.96,14.9,3.0
+SKU-0079,Dell_i5_8GB_2TB_14-16in,Dell,Power Adapter,51.83,6.6,2.63
+SKU-0079,Dell_i5_8GB_2TB_14-16in,Dell,TOTAL / MSRP,787.6,100.0,
+SKU-0080,Lenovo_celeron_4GB_64GB_Sub-12in,Lenovo,Motherboard,126.78,35.1,11.09
+SKU-0080,Lenovo_celeron_4GB_64GB_Sub-12in,Lenovo,Display Panel,79.99,22.1,2.66
+SKU-0080,Lenovo_celeron_4GB_64GB_Sub-12in,Lenovo,Battery,31.67,8.8,3.8
+SKU-0080,Lenovo_celeron_4GB_64GB_Sub-12in,Lenovo,RAM Module,21.87,6.0,1.06
+SKU-0080,Lenovo_celeron_4GB_64GB_Sub-12in,Lenovo,Storage (SSD/HDD),39.06,10.8,2.09
+SKU-0080,Lenovo_celeron_4GB_64GB_Sub-12in,Lenovo,Keyboard/Chassis,50.57,14.0,3.3
+SKU-0080,Lenovo_celeron_4GB_64GB_Sub-12in,Lenovo,Power Adapter,20.59,5.7,2.21
+SKU-0080,Lenovo_celeron_4GB_64GB_Sub-12in,Lenovo,TOTAL / MSRP,361.6,100.0,
+SKU-0081,Dell_i5_16GB_512GB_12-14in,Dell,Motherboard,255.42,33.0,6.32
+SKU-0081,Dell_i5_16GB_512GB_12-14in,Dell,Display Panel,168.26,21.7,2.56
+SKU-0081,Dell_i5_16GB_512GB_12-14in,Dell,Battery,61.63,8.0,4.57
+SKU-0081,Dell_i5_16GB_512GB_12-14in,Dell,RAM Module,48.71,6.3,0.88
+SKU-0081,Dell_i5_16GB_512GB_12-14in,Dell,Storage (SSD/HDD),70.81,9.1,1.8
+SKU-0081,Dell_i5_16GB_512GB_12-14in,Dell,Keyboard/Chassis,115.78,14.9,2.8
+SKU-0081,Dell_i5_16GB_512GB_12-14in,Dell,Power Adapter,49.89,6.4,2.29
+SKU-0081,Dell_i5_16GB_512GB_12-14in,Dell,TOTAL / MSRP,774.8,100.0,
+SKU-0082,Dell_i7_8GB_512GB_14-16in,Dell,Motherboard,309.07,35.0,5.39
+SKU-0082,Dell_i7_8GB_512GB_14-16in,Dell,Display Panel,205.97,23.4,2.17
+SKU-0082,Dell_i7_8GB_512GB_14-16in,Dell,Battery,76.31,8.7,4.2
+SKU-0082,Dell_i7_8GB_512GB_14-16in,Dell,RAM Module,51.75,5.9,0.96
+SKU-0082,Dell_i7_8GB_512GB_14-16in,Dell,Storage (SSD/HDD),89.02,10.1,1.93
+SKU-0082,Dell_i7_8GB_512GB_14-16in,Dell,Keyboard/Chassis,122.96,13.9,2.57
+SKU-0082,Dell_i7_8GB_512GB_14-16in,Dell,Power Adapter,57.34,6.5,2.34
+SKU-0082,Dell_i7_8GB_512GB_14-16in,Dell,TOTAL / MSRP,882.0,100.0,
+SKU-0083,HP_Unknown_Unk_Unk_14-16in,HP,Motherboard,188.23,35.4,13.53
+SKU-0083,HP_Unknown_Unk_Unk_14-16in,HP,Display Panel,122.44,23.0,2.35
+SKU-0083,HP_Unknown_Unk_Unk_14-16in,HP,Battery,45.77,8.6,3.54
+SKU-0083,HP_Unknown_Unk_Unk_14-16in,HP,RAM Module,29.37,5.5,0.92
+SKU-0083,HP_Unknown_Unk_Unk_14-16in,HP,Storage (SSD/HDD),50.94,9.6,2.19
+SKU-0083,HP_Unknown_Unk_Unk_14-16in,HP,Keyboard/Chassis,71.55,13.4,3.22
+SKU-0083,HP_Unknown_Unk_Unk_14-16in,HP,Power Adapter,34.35,6.5,2.78
+SKU-0083,HP_Unknown_Unk_Unk_14-16in,HP,TOTAL / MSRP,532.4,100.0,
+SKU-0084,Acer_celeron_4GB_16GB_Sub-12in,Acer,Motherboard,110.35,31.1,10.73
+SKU-0084,Acer_celeron_4GB_16GB_Sub-12in,Acer,Display Panel,76.86,21.7,2.33
+SKU-0084,Acer_celeron_4GB_16GB_Sub-12in,Acer,Battery,28.47,8.0,3.48
+SKU-0084,Acer_celeron_4GB_16GB_Sub-12in,Acer,RAM Module,21.21,6.0,1.07
+SKU-0084,Acer_celeron_4GB_16GB_Sub-12in,Acer,Storage (SSD/HDD),36.64,10.3,2.2
+SKU-0084,Acer_celeron_4GB_16GB_Sub-12in,Acer,Keyboard/Chassis,44.9,12.7,3.18
+SKU-0084,Acer_celeron_4GB_16GB_Sub-12in,Acer,Power Adapter,20.99,5.9,2.71
+SKU-0084,Acer_celeron_4GB_16GB_Sub-12in,Acer,TOTAL / MSRP,354.4,100.0,
+SKU-0085,Dell_i7_8GB_512GB_12-14in,Dell,Motherboard,337.43,37.0,5.72
+SKU-0085,Dell_i7_8GB_512GB_12-14in,Dell,Display Panel,189.85,20.8,2.51
+SKU-0085,Dell_i7_8GB_512GB_12-14in,Dell,Battery,77.04,8.5,4.56
+SKU-0085,Dell_i7_8GB_512GB_12-14in,Dell,RAM Module,55.75,6.1,1.07
+SKU-0085,Dell_i7_8GB_512GB_12-14in,Dell,Storage (SSD/HDD),89.39,9.8,2.23
+SKU-0085,Dell_i7_8GB_512GB_12-14in,Dell,Keyboard/Chassis,130.17,14.3,3.37
+SKU-0085,Dell_i7_8GB_512GB_12-14in,Dell,Power Adapter,59.8,6.6,2.37
+SKU-0085,Dell_i7_8GB_512GB_12-14in,Dell,TOTAL / MSRP,910.8,100.0,
+SKU-0086,Lenovo_i5_8GB_256GB_12-14in,Lenovo,Motherboard,223.58,33.8,8.48
+SKU-0086,Lenovo_i5_8GB_256GB_12-14in,Lenovo,Display Panel,131.1,19.8,2.29
+SKU-0086,Lenovo_i5_8GB_256GB_12-14in,Lenovo,Battery,51.18,7.7,4.36
+SKU-0086,Lenovo_i5_8GB_256GB_12-14in,Lenovo,RAM Module,38.02,5.8,1.13
+SKU-0086,Lenovo_i5_8GB_256GB_12-14in,Lenovo,Storage (SSD/HDD),63.25,9.6,2.19
+SKU-0086,Lenovo_i5_8GB_256GB_12-14in,Lenovo,Keyboard/Chassis,93.92,14.2,2.58
+SKU-0086,Lenovo_i5_8GB_256GB_12-14in,Lenovo,Power Adapter,43.57,6.6,2.22
+SKU-0086,Lenovo_i5_8GB_256GB_12-14in,Lenovo,TOTAL / MSRP,661.0,100.0,
+SKU-0087,Other/Unbranded_Unknown_Unk_Unk_Sub-12in,Other/Unbranded,Motherboard,194.85,36.6,8.01
+SKU-0087,Other/Unbranded_Unknown_Unk_Unk_Sub-12in,Other/Unbranded,Display Panel,112.37,21.1,2.66
+SKU-0087,Other/Unbranded_Unknown_Unk_Unk_Sub-12in,Other/Unbranded,Battery,38.35,7.2,4.16
+SKU-0087,Other/Unbranded_Unknown_Unk_Unk_Sub-12in,Other/Unbranded,RAM Module,34.05,6.4,0.86
+SKU-0087,Other/Unbranded_Unknown_Unk_Unk_Sub-12in,Other/Unbranded,Storage (SSD/HDD),49.14,9.2,1.93
+SKU-0087,Other/Unbranded_Unknown_Unk_Unk_Sub-12in,Other/Unbranded,Keyboard/Chassis,68.46,12.9,3.09
+SKU-0087,Other/Unbranded_Unknown_Unk_Unk_Sub-12in,Other/Unbranded,Power Adapter,29.2,5.5,2.19
+SKU-0087,Other/Unbranded_Unknown_Unk_Unk_Sub-12in,Other/Unbranded,TOTAL / MSRP,532.4,100.0,
+SKU-0088,Other/Unbranded_i5_Unk_1TB_14-16in,Other/Unbranded,Motherboard,272.27,35.0,8.71
+SKU-0088,Other/Unbranded_i5_Unk_1TB_14-16in,Other/Unbranded,Display Panel,175.82,22.6,2.81
+SKU-0088,Other/Unbranded_i5_Unk_1TB_14-16in,Other/Unbranded,Battery,58.16,7.5,4.17
+SKU-0088,Other/Unbranded_i5_Unk_1TB_14-16in,Other/Unbranded,RAM Module,42.63,5.5,1.01
+SKU-0088,Other/Unbranded_i5_Unk_1TB_14-16in,Other/Unbranded,Storage (SSD/HDD),80.83,10.4,2.02
+SKU-0088,Other/Unbranded_i5_Unk_1TB_14-16in,Other/Unbranded,Keyboard/Chassis,110.6,14.2,2.59
+SKU-0088,Other/Unbranded_i5_Unk_1TB_14-16in,Other/Unbranded,Power Adapter,44.03,5.7,2.47
+SKU-0088,Other/Unbranded_i5_Unk_1TB_14-16in,Other/Unbranded,TOTAL / MSRP,778.0,100.0,
+SKU-0089,Other/Unbranded_i3_Unk_128GB_14-16in,Other/Unbranded,Motherboard,178.35,33.5,11.85
+SKU-0089,Other/Unbranded_i3_Unk_128GB_14-16in,Other/Unbranded,Display Panel,125.51,23.6,2.57
+SKU-0089,Other/Unbranded_i3_Unk_128GB_14-16in,Other/Unbranded,Battery,45.3,8.5,4.43
+SKU-0089,Other/Unbranded_i3_Unk_128GB_14-16in,Other/Unbranded,RAM Module,30.76,5.8,1.02
+SKU-0089,Other/Unbranded_i3_Unk_128GB_14-16in,Other/Unbranded,Storage (SSD/HDD),48.17,9.1,1.94
+SKU-0089,Other/Unbranded_i3_Unk_128GB_14-16in,Other/Unbranded,Keyboard/Chassis,69.52,13.1,2.94
+SKU-0089,Other/Unbranded_i3_Unk_128GB_14-16in,Other/Unbranded,Power Adapter,33.59,6.3,2.83
+SKU-0089,Other/Unbranded_i3_Unk_128GB_14-16in,Other/Unbranded,TOTAL / MSRP,532.0,100.0,
+SKU-0090,Other/Unbranded_i5_Unk_Unk_12-14in,Other/Unbranded,Motherboard,221.33,32.9,8.42
+SKU-0090,Other/Unbranded_i5_Unk_Unk_12-14in,Other/Unbranded,Display Panel,136.13,20.2,2.76
+SKU-0090,Other/Unbranded_i5_Unk_Unk_12-14in,Other/Unbranded,Battery,50.76,7.5,4.59
+SKU-0090,Other/Unbranded_i5_Unk_Unk_12-14in,Other/Unbranded,RAM Module,37.66,5.6,1.14
+SKU-0090,Other/Unbranded_i5_Unk_Unk_12-14in,Other/Unbranded,Storage (SSD/HDD),67.31,10.0,2.28
+SKU-0090,Other/Unbranded_i5_Unk_Unk_12-14in,Other/Unbranded,Keyboard/Chassis,88.65,13.2,3.38
+SKU-0090,Other/Unbranded_i5_Unk_Unk_12-14in,Other/Unbranded,Power Adapter,36.5,5.4,2.69
+SKU-0090,Other/Unbranded_i5_Unk_Unk_12-14in,Other/Unbranded,TOTAL / MSRP,672.4,100.0,
+SKU-0091,Other/Unbranded_i5_16GB_512GB_14-16in,Other/Unbranded,Motherboard,256.6,33.1,5.33
+SKU-0091,Other/Unbranded_i5_16GB_512GB_14-16in,Other/Unbranded,Display Panel,173.97,22.5,2.75
+SKU-0091,Other/Unbranded_i5_16GB_512GB_14-16in,Other/Unbranded,Battery,63.31,8.2,3.58
+SKU-0091,Other/Unbranded_i5_16GB_512GB_14-16in,Other/Unbranded,RAM Module,45.0,5.8,1.01
+SKU-0091,Other/Unbranded_i5_16GB_512GB_14-16in,Other/Unbranded,Storage (SSD/HDD),77.98,10.1,1.8
+SKU-0091,Other/Unbranded_i5_16GB_512GB_14-16in,Other/Unbranded,Keyboard/Chassis,107.18,13.8,2.82
+SKU-0091,Other/Unbranded_i5_16GB_512GB_14-16in,Other/Unbranded,Power Adapter,43.49,5.6,2.51
+SKU-0091,Other/Unbranded_i5_16GB_512GB_14-16in,Other/Unbranded,TOTAL / MSRP,774.8,100.0,
+SKU-0092,Dell_Unknown_Unk_Unk_Unk,Dell,Motherboard,175.49,33.0,12.53
+SKU-0092,Dell_Unknown_Unk_Unk_Unk,Dell,Display Panel,108.94,20.5,2.74
+SKU-0092,Dell_Unknown_Unk_Unk_Unk,Dell,Battery,44.59,8.4,3.76
+SKU-0092,Dell_Unknown_Unk_Unk_Unk,Dell,RAM Module,32.71,6.1,0.91
+SKU-0092,Dell_Unknown_Unk_Unk_Unk,Dell,Storage (SSD/HDD),56.99,10.7,2.13
+SKU-0092,Dell_Unknown_Unk_Unk_Unk,Dell,Keyboard/Chassis,80.64,15.1,3.2
+SKU-0092,Dell_Unknown_Unk_Unk_Unk,Dell,Power Adapter,28.99,5.4,2.68
+SKU-0092,Dell_Unknown_Unk_Unk_Unk,Dell,TOTAL / MSRP,532.4,100.0,
+SKU-0093,Lenovo_i5_Unk_128GB_12-14in,Lenovo,Motherboard,238.4,36.6,12.3
+SKU-0093,Lenovo_i5_Unk_128GB_12-14in,Lenovo,Display Panel,143.81,22.1,2.2
+SKU-0093,Lenovo_i5_Unk_128GB_12-14in,Lenovo,Battery,53.09,8.1,3.85
+SKU-0093,Lenovo_i5_Unk_128GB_12-14in,Lenovo,RAM Module,39.61,6.1,0.98
+SKU-0093,Lenovo_i5_Unk_128GB_12-14in,Lenovo,Storage (SSD/HDD),63.4,9.7,2.14
+SKU-0093,Lenovo_i5_Unk_128GB_12-14in,Lenovo,Keyboard/Chassis,89.59,13.7,3.29
+SKU-0093,Lenovo_i5_Unk_128GB_12-14in,Lenovo,Power Adapter,41.52,6.4,2.48
+SKU-0093,Lenovo_i5_Unk_128GB_12-14in,Lenovo,TOTAL / MSRP,652.0,100.0,
+SKU-0094,Samsung_celeron_4GB_32GB_Sub-12in,Samsung,Motherboard,129.73,36.4,12.67
+SKU-0094,Samsung_celeron_4GB_32GB_Sub-12in,Samsung,Display Panel,74.67,20.9,2.15
+SKU-0094,Samsung_celeron_4GB_32GB_Sub-12in,Samsung,Battery,29.88,8.4,4.32
+SKU-0094,Samsung_celeron_4GB_32GB_Sub-12in,Samsung,RAM Module,22.36,6.3,1.06
+SKU-0094,Samsung_celeron_4GB_32GB_Sub-12in,Samsung,Storage (SSD/HDD),34.67,9.7,2.18
+SKU-0094,Samsung_celeron_4GB_32GB_Sub-12in,Samsung,Keyboard/Chassis,50.24,14.1,3.26
+SKU-0094,Samsung_celeron_4GB_32GB_Sub-12in,Samsung,Power Adapter,22.17,6.2,2.75
+SKU-0094,Samsung_celeron_4GB_32GB_Sub-12in,Samsung,TOTAL / MSRP,356.8,100.0,
+SKU-0095,Dell_celeron_4GB_64GB_Sub-12in,Dell,Motherboard,126.21,34.9,4.23
+SKU-0095,Dell_celeron_4GB_64GB_Sub-12in,Dell,Display Panel,83.83,23.2,2.62
+SKU-0095,Dell_celeron_4GB_64GB_Sub-12in,Dell,Battery,30.09,8.3,3.53
+SKU-0095,Dell_celeron_4GB_64GB_Sub-12in,Dell,RAM Module,19.86,5.5,0.97
+SKU-0095,Dell_celeron_4GB_64GB_Sub-12in,Dell,Storage (SSD/HDD),34.76,9.6,2.03
+SKU-0095,Dell_celeron_4GB_64GB_Sub-12in,Dell,Keyboard/Chassis,55.16,15.3,2.62
+SKU-0095,Dell_celeron_4GB_64GB_Sub-12in,Dell,Power Adapter,20.83,5.8,2.18
+SKU-0095,Dell_celeron_4GB_64GB_Sub-12in,Dell,TOTAL / MSRP,361.6,100.0,
+SKU-0096,HP_celeron_4GB_32GB_14-16in,HP,Motherboard,111.99,31.6,6.84
+SKU-0096,HP_celeron_4GB_32GB_14-16in,HP,Display Panel,73.83,20.8,2.34
+SKU-0096,HP_celeron_4GB_32GB_14-16in,HP,Battery,26.39,7.4,3.72
+SKU-0096,HP_celeron_4GB_32GB_14-16in,HP,RAM Module,21.17,6.0,0.92
+SKU-0096,HP_celeron_4GB_32GB_14-16in,HP,Storage (SSD/HDD),32.15,9.1,1.83
+SKU-0096,HP_celeron_4GB_32GB_14-16in,HP,Keyboard/Chassis,45.89,12.9,3.35
+SKU-0096,HP_celeron_4GB_32GB_14-16in,HP,Power Adapter,21.64,6.1,2.59
+SKU-0096,HP_celeron_4GB_32GB_14-16in,HP,TOTAL / MSRP,354.55,100.0,
+SKU-0097,HP_i5_8GB_128GB_14-16in,HP,Motherboard,210.3,32.2,8.2
+SKU-0097,HP_i5_8GB_128GB_14-16in,HP,Display Panel,144.28,22.1,2.23
+SKU-0097,HP_i5_8GB_128GB_14-16in,HP,Battery,51.23,7.8,3.59
+SKU-0097,HP_i5_8GB_128GB_14-16in,HP,RAM Module,40.21,6.2,0.87
+SKU-0097,HP_i5_8GB_128GB_14-16in,HP,Storage (SSD/HDD),60.13,9.2,1.81
+SKU-0097,HP_i5_8GB_128GB_14-16in,HP,Keyboard/Chassis,87.35,13.4,3.19
+SKU-0097,HP_i5_8GB_128GB_14-16in,HP,Power Adapter,38.93,6.0,2.38
+SKU-0097,HP_i5_8GB_128GB_14-16in,HP,TOTAL / MSRP,653.2,100.0,
+SKU-0098,Dell_i5_32GB_2TB_14-16in,Dell,Motherboard,308.41,31.5,12.18
+SKU-0098,Dell_i5_32GB_2TB_14-16in,Dell,Display Panel,227.97,23.3,2.79
+SKU-0098,Dell_i5_32GB_2TB_14-16in,Dell,Battery,76.45,7.8,4.52
+SKU-0098,Dell_i5_32GB_2TB_14-16in,Dell,RAM Module,60.97,6.2,1.0
+SKU-0098,Dell_i5_32GB_2TB_14-16in,Dell,Storage (SSD/HDD),104.7,10.7,2.11
+SKU-0098,Dell_i5_32GB_2TB_14-16in,Dell,Keyboard/Chassis,142.99,14.6,3.15
+SKU-0098,Dell_i5_32GB_2TB_14-16in,Dell,Power Adapter,54.42,5.6,2.63
+SKU-0098,Dell_i5_32GB_2TB_14-16in,Dell,TOTAL / MSRP,979.6,100.0,
+SKU-0099,Samsung_celeron_4GB_32GB_14-16in,Samsung,Motherboard,124.81,35.0,4.62
+SKU-0099,Samsung_celeron_4GB_32GB_14-16in,Samsung,Display Panel,76.69,21.5,2.77
+SKU-0099,Samsung_celeron_4GB_32GB_14-16in,Samsung,Battery,26.88,7.5,3.84
+SKU-0099,Samsung_celeron_4GB_32GB_14-16in,Samsung,RAM Module,22.55,6.3,0.97
+SKU-0099,Samsung_celeron_4GB_32GB_14-16in,Samsung,Storage (SSD/HDD),37.25,10.4,1.92
+SKU-0099,Samsung_celeron_4GB_32GB_14-16in,Samsung,Keyboard/Chassis,53.75,15.1,2.74
+SKU-0099,Samsung_celeron_4GB_32GB_14-16in,Samsung,Power Adapter,19.42,5.4,2.42
+SKU-0099,Samsung_celeron_4GB_32GB_14-16in,Samsung,TOTAL / MSRP,356.8,100.0,
+SKU-0100,Dell_i7_8GB_256GB_14-16in,Dell,Motherboard,305.21,35.0,10.08
+SKU-0100,Dell_i7_8GB_256GB_14-16in,Dell,Display Panel,194.97,22.3,2.19
+SKU-0100,Dell_i7_8GB_256GB_14-16in,Dell,Battery,63.62,7.3,3.53
+SKU-0100,Dell_i7_8GB_256GB_14-16in,Dell,RAM Module,48.16,5.5,1.06
+SKU-0100,Dell_i7_8GB_256GB_14-16in,Dell,Storage (SSD/HDD),84.4,9.7,1.71
+SKU-0100,Dell_i7_8GB_256GB_14-16in,Dell,Keyboard/Chassis,110.69,12.7,3.21
+SKU-0100,Dell_i7_8GB_256GB_14-16in,Dell,Power Adapter,53.34,6.1,2.13
+SKU-0100,Dell_i7_8GB_256GB_14-16in,Dell,TOTAL / MSRP,872.4,100.0,
+SKU-0101,HP_celeron_4GB_128GB_14-16in,HP,Motherboard,132.83,35.8,4.77
+SKU-0101,HP_celeron_4GB_128GB_14-16in,HP,Display Panel,82.01,22.1,2.86
+SKU-0101,HP_celeron_4GB_128GB_14-16in,HP,Battery,27.18,7.3,3.86
+SKU-0101,HP_celeron_4GB_128GB_14-16in,HP,RAM Module,21.23,5.7,0.86
+SKU-0101,HP_celeron_4GB_128GB_14-16in,HP,Storage (SSD/HDD),38.89,10.5,1.83
+SKU-0101,HP_celeron_4GB_128GB_14-16in,HP,Keyboard/Chassis,46.79,12.6,2.82
+SKU-0101,HP_celeron_4GB_128GB_14-16in,HP,Power Adapter,23.96,6.5,2.63
+SKU-0101,HP_celeron_4GB_128GB_14-16in,HP,TOTAL / MSRP,371.2,100.0,
+SKU-0102,HP_celeron_4GB_16GB_Sub-12in,HP,Motherboard,119.48,33.7,10.44
+SKU-0102,HP_celeron_4GB_16GB_Sub-12in,HP,Display Panel,81.24,22.9,2.83
+SKU-0102,HP_celeron_4GB_16GB_Sub-12in,HP,Battery,29.76,8.4,3.97
+SKU-0102,HP_celeron_4GB_16GB_Sub-12in,HP,RAM Module,23.35,6.6,0.92
+SKU-0102,HP_celeron_4GB_16GB_Sub-12in,HP,Storage (SSD/HDD),35.76,10.1,2.28
+SKU-0102,HP_celeron_4GB_16GB_Sub-12in,HP,Keyboard/Chassis,46.69,13.2,3.2
+SKU-0102,HP_celeron_4GB_16GB_Sub-12in,HP,Power Adapter,21.78,6.1,2.71
+SKU-0102,HP_celeron_4GB_16GB_Sub-12in,HP,TOTAL / MSRP,354.4,100.0,
+SKU-0103,Dell_i7_32GB_2TB_16in+,Dell,Motherboard,502.19,36.8,11.11
+SKU-0103,Dell_i7_32GB_2TB_16in+,Dell,Display Panel,291.22,21.3,2.81
+SKU-0103,Dell_i7_32GB_2TB_16in+,Dell,Battery,117.81,8.6,4.25
+SKU-0103,Dell_i7_32GB_2TB_16in+,Dell,RAM Module,89.02,6.5,1.0
+SKU-0103,Dell_i7_32GB_2TB_16in+,Dell,Storage (SSD/HDD),126.61,9.3,2.27
+SKU-0103,Dell_i7_32GB_2TB_16in+,Dell,Keyboard/Chassis,185.67,13.6,3.4
+SKU-0103,Dell_i7_32GB_2TB_16in+,Dell,Power Adapter,78.27,5.7,2.73
+SKU-0103,Dell_i7_32GB_2TB_16in+,Dell,TOTAL / MSRP,1366.0,100.0,
+SKU-0104,Dell_i5_8GB_16GB_14-16in,Dell,Motherboard,218.6,34.4,6.59
+SKU-0104,Dell_i5_8GB_16GB_14-16in,Dell,Display Panel,127.17,20.0,2.76
+SKU-0104,Dell_i5_8GB_16GB_14-16in,Dell,Battery,51.09,8.0,3.87
+SKU-0104,Dell_i5_8GB_16GB_14-16in,Dell,RAM Module,35.8,5.6,1.14
+SKU-0104,Dell_i5_8GB_16GB_14-16in,Dell,Storage (SSD/HDD),63.81,10.0,1.83
+SKU-0104,Dell_i5_8GB_16GB_14-16in,Dell,Keyboard/Chassis,90.59,14.3,2.62
+SKU-0104,Dell_i5_8GB_16GB_14-16in,Dell,Power Adapter,34.41,5.4,2.75
+SKU-0104,Dell_i5_8GB_16GB_14-16in,Dell,TOTAL / MSRP,635.2,100.0,
+SKU-0105,Dell_celeron_4GB_128GB_Sub-12in,Dell,Motherboard,137.64,37.1,11.5
+SKU-0105,Dell_celeron_4GB_128GB_Sub-12in,Dell,Display Panel,81.29,21.9,2.66
+SKU-0105,Dell_celeron_4GB_128GB_Sub-12in,Dell,Battery,29.45,7.9,4.34
+SKU-0105,Dell_celeron_4GB_128GB_Sub-12in,Dell,RAM Module,23.48,6.3,1.0
+SKU-0105,Dell_celeron_4GB_128GB_Sub-12in,Dell,Storage (SSD/HDD),39.23,10.6,1.93
+SKU-0105,Dell_celeron_4GB_128GB_Sub-12in,Dell,Keyboard/Chassis,47.25,12.7,3.28
+SKU-0105,Dell_celeron_4GB_128GB_Sub-12in,Dell,Power Adapter,23.29,6.3,2.2
+SKU-0105,Dell_celeron_4GB_128GB_Sub-12in,Dell,TOTAL / MSRP,371.2,100.0,
+SKU-0106,Dell_Other/Unspecified_Unk_Unk_14-16in,Dell,Motherboard,162.93,30.6,8.65
+SKU-0106,Dell_Other/Unspecified_Unk_Unk_14-16in,Dell,Display Panel,126.96,23.8,2.87
+SKU-0106,Dell_Other/Unspecified_Unk_Unk_14-16in,Dell,Battery,42.43,8.0,4.16
+SKU-0106,Dell_Other/Unspecified_Unk_Unk_14-16in,Dell,RAM Module,34.62,6.5,1.14
+SKU-0106,Dell_Other/Unspecified_Unk_Unk_14-16in,Dell,Storage (SSD/HDD),54.54,10.2,2.3
+SKU-0106,Dell_Other/Unspecified_Unk_Unk_14-16in,Dell,Keyboard/Chassis,72.43,13.6,3.14
+SKU-0106,Dell_Other/Unspecified_Unk_Unk_14-16in,Dell,Power Adapter,34.62,6.5,2.2
+SKU-0106,Dell_Other/Unspecified_Unk_Unk_14-16in,Dell,TOTAL / MSRP,532.4,100.0,
+SKU-0107,Lenovo_celeron_Unk_256GB_14-16in,Lenovo,Motherboard,155.83,37.1,9.4
+SKU-0107,Lenovo_celeron_Unk_256GB_14-16in,Lenovo,Display Panel,100.72,24.0,2.56
+SKU-0107,Lenovo_celeron_Unk_256GB_14-16in,Lenovo,Battery,33.11,7.9,3.79
+SKU-0107,Lenovo_celeron_Unk_256GB_14-16in,Lenovo,RAM Module,24.46,5.8,1.12
+SKU-0107,Lenovo_celeron_Unk_256GB_14-16in,Lenovo,Storage (SSD/HDD),41.17,9.8,2.16
+SKU-0107,Lenovo_celeron_Unk_256GB_14-16in,Lenovo,Keyboard/Chassis,58.77,14.0,2.73
+SKU-0107,Lenovo_celeron_Unk_256GB_14-16in,Lenovo,Power Adapter,24.17,5.8,2.57
+SKU-0107,Lenovo_celeron_Unk_256GB_14-16in,Lenovo,TOTAL / MSRP,420.0,100.0,
+SKU-0108,Other/Unbranded_i5_Unk_512GB_12-14in,Other/Unbranded,Motherboard,261.2,37.0,5.08
+SKU-0108,Other/Unbranded_i5_Unk_512GB_12-14in,Other/Unbranded,Display Panel,165.47,23.4,2.16
+SKU-0108,Other/Unbranded_i5_Unk_512GB_12-14in,Other/Unbranded,Battery,59.54,8.4,4.19
+SKU-0108,Other/Unbranded_i5_Unk_512GB_12-14in,Other/Unbranded,RAM Module,42.05,6.0,0.86
+SKU-0108,Other/Unbranded_i5_Unk_512GB_12-14in,Other/Unbranded,Storage (SSD/HDD),64.07,9.1,1.78
+SKU-0108,Other/Unbranded_i5_Unk_512GB_12-14in,Other/Unbranded,Keyboard/Chassis,100.63,14.3,2.61
+SKU-0108,Other/Unbranded_i5_Unk_512GB_12-14in,Other/Unbranded,Power Adapter,46.37,6.6,2.29
+SKU-0108,Other/Unbranded_i5_Unk_512GB_12-14in,Other/Unbranded,TOTAL / MSRP,706.0,100.0,
+SKU-0109,Dell_Unknown_Unk_Unk_14-16in,Dell,Motherboard,189.32,35.6,7.23
+SKU-0109,Dell_Unknown_Unk_Unk_14-16in,Dell,Display Panel,122.79,23.1,2.76
+SKU-0109,Dell_Unknown_Unk_Unk_14-16in,Dell,Battery,45.97,8.6,4.38
+SKU-0109,Dell_Unknown_Unk_Unk_14-16in,Dell,RAM Module,29.91,5.6,0.96
+SKU-0109,Dell_Unknown_Unk_Unk_14-16in,Dell,Storage (SSD/HDD),52.24,9.8,1.83
+SKU-0109,Dell_Unknown_Unk_Unk_14-16in,Dell,Keyboard/Chassis,75.89,14.3,3.14
+SKU-0109,Dell_Unknown_Unk_Unk_14-16in,Dell,Power Adapter,33.57,6.3,2.14
+SKU-0109,Dell_Unknown_Unk_Unk_14-16in,Dell,TOTAL / MSRP,532.4,100.0,
+SKU-0110,Lenovo_i7_32GB_2TB_14-16in,Lenovo,Motherboard,427.52,33.9,6.37
+SKU-0110,Lenovo_i7_32GB_2TB_14-16in,Lenovo,Display Panel,289.55,22.9,2.69
+SKU-0110,Lenovo_i7_32GB_2TB_14-16in,Lenovo,Battery,105.17,8.3,3.61
+SKU-0110,Lenovo_i7_32GB_2TB_14-16in,Lenovo,RAM Module,70.56,5.6,0.9
+SKU-0110,Lenovo_i7_32GB_2TB_14-16in,Lenovo,Storage (SSD/HDD),136.83,10.8,2.12
+SKU-0110,Lenovo_i7_32GB_2TB_14-16in,Lenovo,Keyboard/Chassis,168.7,13.4,3.28
+SKU-0110,Lenovo_i7_32GB_2TB_14-16in,Lenovo,Power Adapter,71.38,5.7,2.62
+SKU-0110,Lenovo_i7_32GB_2TB_14-16in,Lenovo,TOTAL / MSRP,1262.0,100.0,
+SKU-0111,HP_i5_8GB_1TB_14-16in,HP,Motherboard,269.87,34.4,11.47
+SKU-0111,HP_i5_8GB_1TB_14-16in,HP,Display Panel,171.88,21.9,2.51
+SKU-0111,HP_i5_8GB_1TB_14-16in,HP,Battery,61.27,7.8,3.43
+SKU-0111,HP_i5_8GB_1TB_14-16in,HP,RAM Module,49.84,6.4,1.03
+SKU-0111,HP_i5_8GB_1TB_14-16in,HP,Storage (SSD/HDD),74.24,9.5,2.12
+SKU-0111,HP_i5_8GB_1TB_14-16in,HP,Keyboard/Chassis,110.51,14.1,3.04
+SKU-0111,HP_i5_8GB_1TB_14-16in,HP,Power Adapter,49.1,6.3,2.77
+SKU-0111,HP_i5_8GB_1TB_14-16in,HP,TOTAL / MSRP,784.0,100.0,
+SKU-0112,Lenovo_i5_8GB_512GB_12-14in,Lenovo,Motherboard,259.35,36.6,13.24
+SKU-0112,Lenovo_i5_8GB_512GB_12-14in,Lenovo,Display Panel,149.43,21.1,2.78
+SKU-0112,Lenovo_i5_8GB_512GB_12-14in,Lenovo,Battery,51.85,7.3,3.78
+SKU-0112,Lenovo_i5_8GB_512GB_12-14in,Lenovo,RAM Module,45.37,6.4,1.12
+SKU-0112,Lenovo_i5_8GB_512GB_12-14in,Lenovo,Storage (SSD/HDD),66.12,9.3,1.81
+SKU-0112,Lenovo_i5_8GB_512GB_12-14in,Lenovo,Keyboard/Chassis,95.42,13.5,2.87
+SKU-0112,Lenovo_i5_8GB_512GB_12-14in,Lenovo,Power Adapter,41.95,5.9,2.78
+SKU-0112,Lenovo_i5_8GB_512GB_12-14in,Lenovo,TOTAL / MSRP,709.0,100.0,
+SKU-0113,Microsoft_i7_Unk_256GB_12-14in,Microsoft,Motherboard,292.63,33.5,11.37
+SKU-0113,Microsoft_i7_Unk_256GB_12-14in,Microsoft,Display Panel,180.62,20.7,2.41
+SKU-0113,Microsoft_i7_Unk_256GB_12-14in,Microsoft,Battery,72.19,8.3,4.16
+SKU-0113,Microsoft_i7_Unk_256GB_12-14in,Microsoft,RAM Module,55.33,6.3,1.03
+SKU-0113,Microsoft_i7_Unk_256GB_12-14in,Microsoft,Storage (SSD/HDD),83.34,9.6,1.96
+SKU-0113,Microsoft_i7_Unk_256GB_12-14in,Microsoft,Keyboard/Chassis,120.92,13.9,3.43
+SKU-0113,Microsoft_i7_Unk_256GB_12-14in,Microsoft,Power Adapter,57.36,6.6,2.54
+SKU-0113,Microsoft_i7_Unk_256GB_12-14in,Microsoft,TOTAL / MSRP,872.4,100.0,
+SKU-0114,Acer_pentium_Unk_Unk_14-16in,Acer,Motherboard,147.34,33.3,7.32
+SKU-0114,Acer_pentium_Unk_Unk_14-16in,Acer,Display Panel,102.0,23.1,2.6
+SKU-0114,Acer_pentium_Unk_Unk_14-16in,Acer,Battery,38.71,8.7,4.12
+SKU-0114,Acer_pentium_Unk_Unk_14-16in,Acer,RAM Module,28.8,6.5,0.87
+SKU-0114,Acer_pentium_Unk_Unk_14-16in,Acer,Storage (SSD/HDD),45.12,10.2,2.07
+SKU-0114,Acer_pentium_Unk_Unk_14-16in,Acer,Keyboard/Chassis,63.69,14.4,3.18
+SKU-0114,Acer_pentium_Unk_Unk_14-16in,Acer,Power Adapter,27.48,6.2,2.65
+SKU-0114,Acer_pentium_Unk_Unk_14-16in,Acer,TOTAL / MSRP,442.4,100.0,
+SKU-0115,Dell_i3_4GB_512GB_14-16in,Dell,Motherboard,170.52,30.6,7.85
+SKU-0115,Dell_i3_4GB_512GB_14-16in,Dell,Display Panel,114.08,20.5,2.83
+SKU-0115,Dell_i3_4GB_512GB_14-16in,Dell,Battery,40.16,7.2,4.33
+SKU-0115,Dell_i3_4GB_512GB_14-16in,Dell,RAM Module,34.62,6.2,0.97
+SKU-0115,Dell_i3_4GB_512GB_14-16in,Dell,Storage (SSD/HDD),60.56,10.9,2.03
+SKU-0115,Dell_i3_4GB_512GB_14-16in,Dell,Keyboard/Chassis,76.41,13.7,3.31
+SKU-0115,Dell_i3_4GB_512GB_14-16in,Dell,Power Adapter,31.51,5.7,2.62
+SKU-0115,Dell_i3_4GB_512GB_14-16in,Dell,TOTAL / MSRP,557.0,100.0,
+SKU-0116,Lenovo_celeron_4GB_16GB_Sub-12in,Lenovo,Motherboard,126.48,35.7,8.96
+SKU-0116,Lenovo_celeron_4GB_16GB_Sub-12in,Lenovo,Display Panel,82.92,23.4,2.51
+SKU-0116,Lenovo_celeron_4GB_16GB_Sub-12in,Lenovo,Battery,28.86,8.1,4.14
+SKU-0116,Lenovo_celeron_4GB_16GB_Sub-12in,Lenovo,RAM Module,22.12,6.2,0.91
+SKU-0116,Lenovo_celeron_4GB_16GB_Sub-12in,Lenovo,Storage (SSD/HDD),38.12,10.8,2.14
+SKU-0116,Lenovo_celeron_4GB_16GB_Sub-12in,Lenovo,Keyboard/Chassis,46.78,13.2,2.79
+SKU-0116,Lenovo_celeron_4GB_16GB_Sub-12in,Lenovo,Power Adapter,20.65,5.8,2.44
+SKU-0116,Lenovo_celeron_4GB_16GB_Sub-12in,Lenovo,TOTAL / MSRP,354.4,100.0,
+SKU-0117,Dell_celeron_4GB_16GB_Sub-12in,Dell,Motherboard,131.38,37.1,10.89
+SKU-0117,Dell_celeron_4GB_16GB_Sub-12in,Dell,Display Panel,77.87,22.0,2.34
+SKU-0117,Dell_celeron_4GB_16GB_Sub-12in,Dell,Battery,29.01,8.2,4.29
+SKU-0117,Dell_celeron_4GB_16GB_Sub-12in,Dell,RAM Module,20.38,5.7,1.08
+SKU-0117,Dell_celeron_4GB_16GB_Sub-12in,Dell,Storage (SSD/HDD),37.56,10.6,1.9
+SKU-0117,Dell_celeron_4GB_16GB_Sub-12in,Dell,Keyboard/Chassis,53.54,15.1,3.15
+SKU-0117,Dell_celeron_4GB_16GB_Sub-12in,Dell,Power Adapter,20.89,5.9,2.78
+SKU-0117,Dell_celeron_4GB_16GB_Sub-12in,Dell,TOTAL / MSRP,354.4,100.0,
+SKU-0118,HP_i5_8GB_256GB_12-14in,HP,Motherboard,235.44,35.0,8.96
+SKU-0118,HP_i5_8GB_256GB_12-14in,HP,Display Panel,147.93,22.0,2.71
+SKU-0118,HP_i5_8GB_256GB_12-14in,HP,Battery,51.65,7.7,4.0
+SKU-0118,HP_i5_8GB_256GB_12-14in,HP,RAM Module,36.54,5.4,0.91
+SKU-0118,HP_i5_8GB_256GB_12-14in,HP,Storage (SSD/HDD),66.03,9.8,2.09
+SKU-0118,HP_i5_8GB_256GB_12-14in,HP,Keyboard/Chassis,86.83,12.9,3.01
+SKU-0118,HP_i5_8GB_256GB_12-14in,HP,Power Adapter,41.67,6.2,2.79
+SKU-0118,HP_i5_8GB_256GB_12-14in,HP,TOTAL / MSRP,672.4,100.0,
+SKU-0119,Lenovo_i5_16GB_1TB_14-16in,Lenovo,Motherboard,259.95,30.7,9.1
+SKU-0119,Lenovo_i5_16GB_1TB_14-16in,Lenovo,Display Panel,187.89,22.2,2.39
+SKU-0119,Lenovo_i5_16GB_1TB_14-16in,Lenovo,Battery,72.9,8.6,4.39
+SKU-0119,Lenovo_i5_16GB_1TB_14-16in,Lenovo,RAM Module,55.49,6.5,0.95
+SKU-0119,Lenovo_i5_16GB_1TB_14-16in,Lenovo,Storage (SSD/HDD),80.92,9.5,1.84
+SKU-0119,Lenovo_i5_16GB_1TB_14-16in,Lenovo,Keyboard/Chassis,108.69,12.8,3.3
+SKU-0119,Lenovo_i5_16GB_1TB_14-16in,Lenovo,Power Adapter,54.53,6.4,2.63
+SKU-0119,Lenovo_i5_16GB_1TB_14-16in,Lenovo,TOTAL / MSRP,848.0,100.0,
+SKU-0120,Other/Unbranded_i5_8GB_512GB_14-16in,Other/Unbranded,Motherboard,218.15,30.7,7.69
+SKU-0120,Other/Unbranded_i5_8GB_512GB_14-16in,Other/Unbranded,Display Panel,146.34,20.6,2.65
+SKU-0120,Other/Unbranded_i5_8GB_512GB_14-16in,Other/Unbranded,Battery,56.06,7.9,4.29
+SKU-0120,Other/Unbranded_i5_8GB_512GB_14-16in,Other/Unbranded,RAM Module,44.63,6.3,1.0
+SKU-0120,Other/Unbranded_i5_8GB_512GB_14-16in,Other/Unbranded,Storage (SSD/HDD),68.88,9.7,1.95
+SKU-0120,Other/Unbranded_i5_8GB_512GB_14-16in,Other/Unbranded,Keyboard/Chassis,94.37,13.3,2.87
+SKU-0120,Other/Unbranded_i5_8GB_512GB_14-16in,Other/Unbranded,Power Adapter,39.39,5.5,2.28
+SKU-0120,Other/Unbranded_i5_8GB_512GB_14-16in,Other/Unbranded,TOTAL / MSRP,710.8,100.0,
+SKU-0121,Lenovo_i7_8GB_512GB_14-16in,Lenovo,Motherboard,293.21,32.2,4.54
+SKU-0121,Lenovo_i7_8GB_512GB_14-16in,Lenovo,Display Panel,219.86,24.1,2.44
+SKU-0121,Lenovo_i7_8GB_512GB_14-16in,Lenovo,Battery,73.46,8.1,4.24
+SKU-0121,Lenovo_i7_8GB_512GB_14-16in,Lenovo,RAM Module,51.41,5.6,0.95
+SKU-0121,Lenovo_i7_8GB_512GB_14-16in,Lenovo,Storage (SSD/HDD),93.47,10.3,2.02
+SKU-0121,Lenovo_i7_8GB_512GB_14-16in,Lenovo,Keyboard/Chassis,127.4,14.0,3.39
+SKU-0121,Lenovo_i7_8GB_512GB_14-16in,Lenovo,Power Adapter,56.75,6.2,2.28
+SKU-0121,Lenovo_i7_8GB_512GB_14-16in,Lenovo,TOTAL / MSRP,910.8,100.0,
+SKU-0122,Other/Unbranded_i5_8GB_256GB_Sub-12in,Other/Unbranded,Motherboard,249.26,37.1,10.75
+SKU-0122,Other/Unbranded_i5_8GB_256GB_Sub-12in,Other/Unbranded,Display Panel,135.18,20.1,2.48
+SKU-0122,Other/Unbranded_i5_8GB_256GB_Sub-12in,Other/Unbranded,Battery,50.8,7.6,4.26
+SKU-0122,Other/Unbranded_i5_8GB_256GB_Sub-12in,Other/Unbranded,RAM Module,42.15,6.3,1.01
+SKU-0122,Other/Unbranded_i5_8GB_256GB_Sub-12in,Other/Unbranded,Storage (SSD/HDD),72.27,10.7,1.82
+SKU-0122,Other/Unbranded_i5_8GB_256GB_Sub-12in,Other/Unbranded,Keyboard/Chassis,99.63,14.8,2.96
+SKU-0122,Other/Unbranded_i5_8GB_256GB_Sub-12in,Other/Unbranded,Power Adapter,39.57,5.9,2.49
+SKU-0122,Other/Unbranded_i5_8GB_256GB_Sub-12in,Other/Unbranded,TOTAL / MSRP,672.4,100.0,
+SKU-0123,Other/Unbranded_celeron_4GB_256GB_14-16in,Other/Unbranded,Motherboard,143.4,36.7,6.93
+SKU-0123,Other/Unbranded_celeron_4GB_256GB_14-16in,Other/Unbranded,Display Panel,85.53,21.9,2.26
+SKU-0123,Other/Unbranded_celeron_4GB_256GB_14-16in,Other/Unbranded,Battery,28.52,7.3,4.18
+SKU-0123,Other/Unbranded_celeron_4GB_256GB_14-16in,Other/Unbranded,RAM Module,23.49,6.0,1.15
+SKU-0123,Other/Unbranded_celeron_4GB_256GB_14-16in,Other/Unbranded,Storage (SSD/HDD),39.5,10.1,1.89
+SKU-0123,Other/Unbranded_celeron_4GB_256GB_14-16in,Other/Unbranded,Keyboard/Chassis,57.16,14.6,3.1
+SKU-0123,Other/Unbranded_celeron_4GB_256GB_14-16in,Other/Unbranded,Power Adapter,23.26,6.0,2.67
+SKU-0123,Other/Unbranded_celeron_4GB_256GB_14-16in,Other/Unbranded,TOTAL / MSRP,390.4,100.0,
