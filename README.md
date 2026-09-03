@@ -1,85 +1,109 @@
 # EchoChain
+### Circular Economy & Secondary Market Lifecycle Analytics
 
-**Post-sale product lifecycle intelligence for circular economy decisions.**
+EchoChain closes the post-sale "data blind spot" manufacturers face once a product leaves the factory. It joins internal manufacturing/warranty data with scraped secondary-market (eBay-style) listings to compute a **Circularity Score** per product model — flagging which models are strong candidates for a buy-back and refurbishment program.
 
-Manufacturers track products rigorously until the point of sale — after that, the
-lifecycle becomes a data blind spot. EchoChain closes that gap by joining scraped
-secondary-market (eBay-style) listing data with internal manufacturing Bill-of-Materials
-and warranty-claim data, producing a **Circularity Score** that flags products worth a
-strategic buy-back / refurbishment program (e.g. "motherboard fails often, but the
-display resells at a premium — refurbish and resell the panel").
+> Manufacturers track products rigorously until the point of sale. After that, they have no visibility into environmental impact, landfill diversion, or refurbishment potential. EchoChain rebuilds that visibility by connecting internal warranty/failure data to real-world resale market behavior.
 
-## Architecture
+---
 
-```
-Scrapy spiders  →  Bronze (raw)  →  Silver (cleaned/standardized)  →  Gold (joined + scored)  →  Power BI
-     ↑                                        ↑
-secondary market                    internal BOM / warranty data
-   listings                              (ERP / PLM system)
-```
+## Use Case
+
+A Sustainability Executive opens EchoChain and sees that a specific laptop model has a **high Circularity Score**: its motherboard fails frequently (internal warranty data), but its display retains high resale value on eBay (scraped market data). That combination signals a strategic buy-back opportunity — replace the failing part, resell the rest.
+
+---
+
+## Tech Stack
 
 | Layer | Tool | Purpose |
 |---|---|---|
-| Ingestion | Scrapy | Crawl secondary-market listings (whole-unit + parts) |
-| Storage | Databricks + Delta Lake | Unified lakehouse for structured + scraped data |
-| Processing | PySpark | Clean, fuzzy-match, aggregate at scale |
-| Reporting | Power BI | Executive Circularity Score dashboard |
+| Web Scraping | **Scrapy** (Python) | Extract pricing and condition data from secondary electronics markets |
+| Data Lakehouse | **Databricks + Delta Lake** | Unified storage for structured internal data and unstructured scraped web data |
+| Big Data Processing | **PySpark** | Clean data, fuzzy-match scraped listings to internal SKUs, aggregate metrics |
+| BI / Dashboarding | **Power BI** | Executive reporting and drill-down analysis |
 
-## Repo layout
+---
+
+## Repository Structure
 
 ```
-EchoChain/
-├── scraper/
-│   └── scrapy_secondary_market_spider.py   # Scrapy spiders (listings + parts)
+echochain/
+├── data/
+│   ├── EchoChain_Raw_Data_Sets.csv           # Raw scraped secondary-market listings (bronze)
+│   ├── cleaned_secondary_market.csv          # Cleaned listings (silver)
+│   ├── internal_bom_warranty.csv             # Synthetic internal BOM/warranty data (bronze)
+│   └── echochain_joined_circularity_scores.csv  # Final joined + scored table (gold) — load into Power BI
 ├── pipeline/
-│   └── pyspark_databricks_pipeline.py      # Production Databricks/PySpark job
-├── scripts/                                # Local/portable pandas prototypes
-│   ├── 01_clean_market_data.py             # Bronze -> Silver
-│   ├── 02_generate_synthetic_internal_data.py  # Synthetic BOM/warranty/parts data
-│   └── 03_join_and_score.py                # Silver + internal -> Gold (Circularity Score)
-├── data/                                   # Sample CSV outputs (Silver + Gold layers)
-│   ├── 01_cleaned_market_listings.csv
-│   ├── 02_synthetic_internal_bom_warranty.csv
-│   ├── 03_synthetic_component_resale_values.csv
-│   ├── 04_circularity_score_powerbi_dataset.csv   # Power BI source table
-│   └── 05_component_level_detail_powerbi.csv      # Power BI drill-through table
-├── requirements.txt
+│   └── echochain_pyspark_pipeline.py         # PySpark/Delta Lake pipeline (Databricks-ready)
+├── docs/
+│   └── EchoChain_Methodology.md              # Full scoring methodology + dashboard guide
 └── README.md
 ```
 
-## Circularity Score
+---
 
-A 0–100 blended score per product family:
+## Pipeline Overview
 
-- **35%** Resale Value Retention — avg. secondary-market price ÷ estimated MSRP
-- **25%** Component Reliability — 100 − BOM-cost-weighted warranty claim rate
-- **20%** Refurbishment Viability — % of listings that are New / Like-New / Refurbished
-- **20%** Parts Circularity — BOM-cost-weighted component resale value %
+**Bronze → Silver (Clean)**
+Raw scraped listings are normalized: numeric fields extracted from noisy text (e.g. `"o4.2GHz"` → `4.2`), units unified (RAM `mb`→`gb`, storage `tb`→`gb`), 10+ raw condition labels collapsed into 5 clean buckets, and processors classified into families (i3/i5/i7/i9/Celeron/Ryzen) for matching.
 
-## Running locally
+**Silver → Gold (Join + Score)**
+Cleaned listings are matched to internal model records via a fuzzy key (`Brand + Processor Family + Screen Size Bucket`), then joined with manufacturing cost and component-level warranty failure rates.
 
+**Circularity Score (0–100)**
+```
+Circularity Score = 0.55 × Resale Value Retention
+                   + 0.30 × Swappable-Part Failure Rate
+                   − 0.15 × Motherboard Failure Rate
+```
+- **Resale Value Retention** — avg. resale price ÷ manufacturing cost
+- **Swappable-Part Failure Rate** — avg. failure rate of cheap-to-replace parts (display, battery, keyboard, storage, chassis) — a *positive* signal for refurb upside
+- **Motherboard Failure Rate** — a *penalty*, since motherboard failures are expensive and hard to repair
+
+Full derivation and normalization steps are in [`docs/EchoChain_Methodology.md`](docs/EchoChain_Methodology.md).
+
+---
+
+## Running the Pipeline
+
+**Local prototyping (pandas):**
 ```bash
-pip install -r requirements.txt
-
-python scripts/01_clean_market_data.py
-python scripts/02_generate_synthetic_internal_data.py
-python scripts/03_join_and_score.py
+pip install pandas numpy
+python pipeline/prototype_pandas_pipeline.py
 ```
 
-Outputs land in `data/` — `04_circularity_score_powerbi_dataset.csv` and
-`05_component_level_detail_powerbi.csv` are ready to load straight into Power BI.
+**Production (Databricks / PySpark):**
+```bash
+# Upload data/*.csv to a Databricks volume or mount, then run:
+spark-submit pipeline/echochain_pyspark_pipeline.py
+```
+The script reads from Delta tables at `/mnt/bronze/...` and writes the scored output to `/mnt/gold/echochain_circularity_scores`, which Power BI connects to via the Databricks SQL / Delta connector.
 
-## Production deployment
+---
 
-`pipeline/pyspark_databricks_pipeline.py` is the Databricks Job / Workflow version:
-Bronze tables refresh from the Scrapy crawl (cloud storage) and the ERP/PLM export,
-and the Gold `circularity_scores` Delta table is queried directly by Power BI
-(DirectQuery).
+## Power BI Dashboard
 
-## Note on internal data
+Load `data/echochain_joined_circularity_scores.csv` as the primary table. Optionally relate it to `cleaned_secondary_market.csv` on `Model_Key` (many-to-one) for listing-level drill-down.
 
-The raw upstream dataset only contains scraped secondary-market listings. Internal
-BOM/warranty and parts-resale tables are **clearly-labeled synthetic data** generated
-by `scripts/02_generate_synthetic_internal_data.py` to make the pipeline runnable
-end-to-end. In production, swap these for real exports from the manufacturer's
-ERP/PLM and warranty systems — the rest of the pipeline works unchanged.
+Recommended visuals:
+- **Horizontal bar chart** — Circularity Score by model (ranked)
+- **Scatter/bubble chart** — Resale Value Retention % (x) vs. Motherboard Failure % (y), bubble size = listing count
+- **Clustered bar chart** — component-level failure breakdown per model
+- **Bar chart** — average resale price by condition (New / Used / Refurbished / etc.)
+- **KPI cards** — average score, count of "recommended" models, total listings analyzed
+
+See [`docs/EchoChain_Methodology.md`](docs/EchoChain_Methodology.md) for the full build guide.
+
+---
+
+## Data Notes & Limitations
+
+- `internal_bom_warranty.csv` is a **synthetic dataset** generated to simulate a manufacturer's internal BOM/warranty system, since real internal data wasn't available. In production this would come from the manufacturer's ERP/warranty claims system.
+- Model matching uses a simplified rule-based key (brand + processor family + screen bucket) rather than full text-similarity fuzzy matching. This is noted in the pipeline script as an upgrade path (e.g. `rapidfuzz`/`jellyfish` distributed via PySpark `mapPartitions`).
+- ~1,400 of 4,183 raw listings fell into an "unknown" bucket due to missing screen size/processor data and were excluded from scoring.
+
+---
+
+## License
+
+*(Add your license here, e.g. MIT)*
