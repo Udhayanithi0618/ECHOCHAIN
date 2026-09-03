@@ -103,7 +103,3 @@ See [`docs/EchoChain_Methodology.md`](docs/EchoChain_Methodology.md) for the ful
 - ~1,400 of 4,183 raw listings fell into an "unknown" bucket due to missing screen size/processor data and were excluded from scoring.
 
 ---
-
-## License
-
-*(Add your license here, e.g. MIT)*
